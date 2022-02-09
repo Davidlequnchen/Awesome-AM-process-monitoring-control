@@ -43,7 +43,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
 
 ---
 ### Acoustic signal-based monitoring
-- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] :star::
+- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire::
 
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :star::
 
