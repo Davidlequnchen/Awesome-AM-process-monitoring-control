@@ -7,12 +7,17 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
 
 
 # Table of Contents
-
+- [Latest review articles](#latest-review-articles)
 - [Closed loop feedback control](#closed-loop-feedback-control)
-- [Process planning for AM and hybrid AM](#process-planning-for-am-and-hybrid-am)
 - [AI assisted in situ process monitoring](#ai-assisted-in-situ-process-monitoring)
+    - [Acoustic signal-based monitoring](#acoustic-signal-based-monitoring)
+    - [Vision-based monitoring](#vision-based-monitoring-and-inspections)
+    - [Point cloud-based surface monitoring]()
+
+- [Process planning for AM and hybrid AM](#process-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
 - [Hybrid AM - material, process, systems](#hybrid-am---material-process-systems)
+- [Physics-informed machine learning for Additive Manufacturing](#physics-informed-machine-learning-for-additive-manufacturing)
 
 
 <h3> Keywords </h3>
@@ -27,17 +32,32 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
 
 ---
+## Latest review articles
+- [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__ __`acoustic`__] :star::
 
+
+
+
+---
 ## AI assisted in situ process monitoring
 
+---
 ### Acoustic signal-based monitoring
 - [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] :star::
 
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :star::
 
-- [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::star::star::star::star:
+- [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::
 
+---
+### Vision-based monitoring and inspections
+- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end
+displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6)
 
+---
+### Point Cloud-based surface/geometric monitoring
+- - [[IJMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing
+displacement and strain measurement] [__`monitoring`__ __`surface`__ __`planning`__]
 
 
 ---	
@@ -60,3 +80,11 @@ micro-forging treatment (UMT)__) for performance
 improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`material`__]
 - [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2029009?src=&journalCode=nvpp20)] Investigation on synergism between additive and subtractive manufacturing for curved thin-walled structure,  multiple-cycle hybrid manufacturing (MCHM) vs. one-cycle hybrid manufacturing (OCHM) ] [__`hybridAM`__  __`thin-wall`__ __`process`__]
  
+
+
+##  Physics-informed machine learning for Additive Manufacturing
+
+Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
+
+
+- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z)
