@@ -71,13 +71,20 @@ Control as a Function of Scan Strategy Via DED.] [__`control`__ __`DED`__]
 
 ---	
 ## Process planning for AM and hybrid AM
-- [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.] [__`planning`__ __`DED`__ __'University of Waterloo'__]	
+
+
+- [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.] [__`planning`__ __`DED`__ __'University of Waterloo'__]
+
+- [[VPP (2022)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2031232?src=)] A spiral laser scanning routine for powder bed fusion inspired by natural predator-prey behaviour.] [__`planning`__ __`SLM`__ __`MIT`__]	
 
 
 ## Hybrid AM - material, process, systems
+- [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2034081?src=&journalCode=nvpp20)] High-speed machining of additively manufactured Inconel 718 using hybrid cryogenic cooling methods] [__`hybridAM`__ __`DED`__  __`milling`__ __`material`__ __`CNC`__]
+
 - [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000549)] Hybrid additive manufacturing (__DED__ + __ultrasonic
 micro-forging treatment (UMT)__) for performance
 improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`material`__]
+
 - [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2029009?src=&journalCode=nvpp20)] Investigation on synergism between additive and subtractive manufacturing for curved thin-walled structure,  multiple-cycle hybrid manufacturing (MCHM) vs. one-cycle hybrid manufacturing (OCHM) ] [__`hybridAM`__  __`thin-wall`__ __`process`__] 
  
 
@@ -85,6 +92,5 @@ improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`materia
 ##  Physics-informed machine learning for Additive Manufacturing
 
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
-
 
 - [[IJMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
