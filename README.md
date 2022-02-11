@@ -1,7 +1,9 @@
 # LAM_process_monitoring_control [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF.
+ A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__)
 
-for anyone who wants to do research about Additive Manufacturing process monitoring and control.   
+Other research area including hybrid additive-subtractive manufacturing, Physics-informed machine learning for AM, and path planning are also included. 
+
+For anyone who wants to do research about Additive Manufacturing process monitoring, control, and intelligent decision-making, hope this is helpful to you.   
 
 If you find the paper/code/dataset or have some suggestions, please contact chen1189@e.ntu.edu.sg. Thanks for your valuable contribution to the research community :smiley:   
 
@@ -54,6 +56,12 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
 - [[IJMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end
 displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
 
+- [[Robotics and Computer Integrated Manufacturing (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770?via%3Dihub)] OpenLMD, an open source middleware and toolkit for laser-based additive
+manufacturing of large metal parts] [__`monitoring`__ __`DED`__ __`vision`__ __`control`__]  [__code (OpenLMD, ROS)__](https://github.com/openlmd), [dataset](https://zenodo.org/record/45664#.YgW-f99BxPY) :fire:
+
+
+
+
 ---
 ### Point Cloud-based surface/geometric monitoring
 - [[IJMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing
@@ -70,7 +78,7 @@ Control as a Function of Scan Strategy Via DED.] [__`control`__ __`DED`__]
  
 
 ---	
-## Process planning for AM and hybrid AM
+## Process planning and path planning for AM and hybrid AM
 
 
 - [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.] [__`planning`__ __`DED`__ __'University of Waterloo'__]
@@ -93,4 +101,8 @@ improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`materia
 
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
 
-- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
+- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
+
+- [[Computational Mechanics (2021)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)]Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed
+neural networks[__`Physics informed AI`__ __`Thermal multiphase flows`__] [code and dataset](https://yan.cee.illinois.edu/) :fire:
+
