@@ -10,14 +10,13 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
 
 # Table of Contents
 - [Latest review articles](#latest-review-articles)
-- [Closed loop feedback control](#closed-loop-feedback-control)
 - [AI assisted in situ process monitoring](#ai-assisted-in-situ-process-monitoring)
     - [Acoustic signal-based monitoring](#acoustic-signal-based-monitoring)
     - [Vision-based monitoring](#vision-based-monitoring-and-inspections)
     - [Thermal-based monitoring](#thermal-based-monitoring-and-inspections)
     - [Point cloud-based surface monitoring](#point-cloud-based-surfacegeometric-monitoring)
-
-- [Process planning for AM and hybrid AM](#process-planning-for-am-and-hybrid-am)
+- [Closed loop feedback control](#closed-loop-feedback-control)
+- [Process planning and robotic path planning for AM and hybrid AM](#process-planning-and-path-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
 - [Hybrid AM - material, process, systems](#hybrid-am---material-process-systems)
 - [Physics-informed machine learning for Additive Manufacturing](#physics-informed-machine-learning-for-additive-manufacturing)
@@ -47,7 +46,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50 &emsp;
 ### Acoustic signal-based monitoring
 - [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
 
-- [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :star::
+- [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :+1:
 
 - [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::
 
