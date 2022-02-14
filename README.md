@@ -1,5 +1,5 @@
-# LAM_process_monitoring_control [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__)
+# In-situ process monitoring and control for Laser-based Additive manufacturing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__)
 
 Other research area including hybrid additive-subtractive manufacturing, Physics-informed machine learning for AM, and path planning are also included. 
 
@@ -14,7 +14,8 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
 - [AI assisted in situ process monitoring](#ai-assisted-in-situ-process-monitoring)
     - [Acoustic signal-based monitoring](#acoustic-signal-based-monitoring)
     - [Vision-based monitoring](#vision-based-monitoring-and-inspections)
-    - [Point cloud-based surface monitoring]()
+    - [Thermal-based monitoring](#thermal-based-monitoring-and-inspections)
+    - [Point cloud-based surface monitoring](#point-cloud-based-surfacegeometric-monitoring)
 
 - [Process planning for AM and hybrid AM](#process-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
@@ -31,8 +32,7 @@ __`DED`__: Direct Energy Deposition &emsp; | &emsp; __`LPBF`__: Laser-based powd
 __`AI`__: AI-assisted advanced monitoring approach &emsp; | &emsp;
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
-
+Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :+1: Really good and important paper that you should pay attention to 
 ---
 ## Latest review articles
 - [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__ __`acoustic`__] :star::
@@ -45,7 +45,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
 
 ---
 ### Acoustic signal-based monitoring
-- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire::
+- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
 
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :star::
 
@@ -57,7 +57,21 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50
 displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
 
 - [[Robotics and Computer Integrated Manufacturing (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770?via%3Dihub)] OpenLMD, an open source middleware and toolkit for laser-based additive
-manufacturing of large metal parts] [__`monitoring`__ __`DED`__ __`vision`__ __`control`__]  [__code (OpenLMD, ROS)__](https://github.com/openlmd), [dataset](https://zenodo.org/record/45664#.YgW-f99BxPY) :fire:
+manufacturing of large metal parts] [__`monitoring`__ __`DED`__ __`vision`__ __`control`__]  [__code (OpenLMD, ROS)__](https://github.com/openlmd), [dataset](https://zenodo.org/record/45664#.YgW-f99BxPY) :fire: :+1:
+
+- [[IEEE Access (2021)](https://ieeexplore.ieee.org/document/9381862)] Improving Build Quality in Laser Powder Bed Fusion Using High Dynamic Range Imaging and Model-Based Reinforcement Learning] [__`reinforcement learning`__ __`CNN`__ __`LPBF`__ __`vision`__ __`surface defect (roughness)`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
+
+
+
+---
+### Thermal-based monitoring and inspections
+- [[NJMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004337)] Local prediction of Laser Powder Bed Fusion porosity by short-wave infrared imaging thermal feature porosity probability maps] [__`LPBF`__ __`thermal history`__ __`porosity`__ __`Missouri University of Science and Technology`__]  :+1:
+
+- [[Npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00555-z)] Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing] [__`DED`__ __`thermal history`__ __`UTS`__]  [__code(pytorch, CNN)__]( https://github.com/xiaoyuxie-vico/DL-AM), [__dataset__](https://github.com/xiaoyuxie-vico/DL_AM_Data) :fire: :+1:
+
+
+- [[ASME J. Manuf. Sci. Eng. (2016)](https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/138/11/111007/454591/Predicting-Microstructure-From-Thermal-History)] Predicting Microstructure From Thermal History During Additive Manufacturing for Ti-6Al-4V] [__`DED`__ __`thermal history`__ __`Modelling`__ __`Simulation`__]  
+
 
 
 
