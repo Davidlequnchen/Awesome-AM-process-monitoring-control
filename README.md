@@ -49,18 +49,14 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50 &emsp;
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
 
 
-
 - [[IEEE Transactions on Industrial Informatics (2019)](10.1109/TII.2019.2910524)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star:: :+1:
-
-
-
 
 
 - [[The Journal of the Acoustical Society of America (2019)](https://doi.org/10.1121/1.5136551)] Acoustic signals associated with laser-substrate interaction in powder bed fusion additive manufacturing process] [__`monitoring`__ __`acoustic`__ __`SLM`__] 
 
 - [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM)] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__] :star::
 
-
+- [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes] [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
 
 - [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::
 
