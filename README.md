@@ -34,21 +34,44 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :+1: Really good and important paper that you should pay attention to 
 ---
 ## Latest review articles
-- [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__ __`acoustic`__] :star::
+- [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__] 
 
 
-
+- [[IEEE/ASME Transactions on Mechatronics (2021))](https://ieeexplore.ieee.org/document/9580759)] Metal-Based Additive Manufacturing Condition Monitoring: A Review on Machine Learning Based Approaches
 
 ---
-## AI assisted in situ process monitoring
+## In situ process monitoring for LAM
 
 ---
 ### Acoustic signal-based monitoring
-- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
+- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__ __`SLM`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
 
-- [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__] :+1:
+- [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
+
+
+
+- [[IEEE Transactions on Industrial Informatics (2019)](10.1109/TII.2019.2910524)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star:: :+1:
+
+
+
+
+
+- [[The Journal of the Acoustical Society of America (2019)](https://doi.org/10.1121/1.5136551)] Acoustic signals associated with laser-substrate interaction in powder bed fusion additive manufacturing process] [__`monitoring`__ __`acoustic`__ __`SLM`__] 
+
+- [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM)] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__] :star::
+
+
 
 - [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::
+
+
+- [[Mechanics Research Communications (2017)](https://www.sciencedirect.com/science/article/abs/pii/S009364131630235X)] Acoustic emission monitoring of crack propagation in additively manufactured and conventional titanium components] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__] :star::
+
+
+
+
+
+
 
 ---
 ### Vision-based monitoring and inspections
