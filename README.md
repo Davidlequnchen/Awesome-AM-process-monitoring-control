@@ -31,7 +31,7 @@ __`DED`__: Direct Energy Deposition &emsp; | &emsp; __`LPBF`__: Laser-based powd
 __`AI`__: AI-assisted advanced monitoring approach &emsp; | &emsp;
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :+1: Really good and important paper that you should pay attention to 
+Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;|&emsp; :+1: Really good and important paper that you should pay attention to 
 ---
 ## Latest review articles
 - [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__] 
