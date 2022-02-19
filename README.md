@@ -1,11 +1,11 @@
 # In-situ process monitoring and control for Laser-based Additive manufacturing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__)
+A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__). The paper collection here focus only on highly cited, or open-source or latest articles from top tier journal/conferences.
 
-Other research area including hybrid additive-subtractive manufacturing, Physics-informed machine learning for AM, and path planning are also included. 
+Other research area including hybrid additive-subtractive manufacturing, Physics-informed machine learning for AM, and path planning are also briefly included. 
 
 For anyone who wants to do research about Additive Manufacturing process monitoring, control, and intelligent decision-making, hope this is helpful to you.   
 
-If you find the paper/code/dataset or have some suggestions, please contact chen1189@e.ntu.edu.sg. Thanks for your valuable contribution to the research community :smiley:   
+If you find the paper/code/dataset or have some suggestions, please contact chen1189@e.ntu.edu.sg. Thanks for your valuable contribution to the research community. 
 
 
 # Table of Contents
@@ -31,19 +31,26 @@ __`DED`__: Direct Energy Deposition &emsp; | &emsp; __`LPBF`__: Laser-based powd
 __`AI`__: AI-assisted advanced monitoring approach &emsp; | &emsp;
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;|&emsp; :+1: Really good and important paper that you should pay attention to 
+Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;|&emsp; :+1: Really good paper that you should pay attention to 
 ---
 ## Latest review articles
+
+- [[Additive Manufacturing (2022))](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing] [__`monitoring`__ __`ML`__] 
+
 - [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__] 
 
 
 - [[IEEE/ASME Transactions on Mechatronics (2021))](https://ieeexplore.ieee.org/document/9580759)] Metal-Based Additive Manufacturing Condition Monitoring: A Review on Machine Learning Based Approaches
 
 ---
-## In situ process monitoring for LAM
+## Process monitoring for LAM
 
 ---
 ### Acoustic signal-based monitoring
+
+
+- [[JMPT (2022))](https://www.sciencedirect.com/science/article/pii/S0924013622000437)] Deep Transfer Learning of Additive Manufacturing Mechanisms Across Materials in Metal-Based Laser Powder Bed Fusion Process.] [__`monitoring`__ __`acoustic`__ __`SLM`__ __`transfer learning`__] [__code(pytorch), dataset__](https://c4science.ch/diffusion/11778/)  :fire:: :fire:: :+1:
+
 - [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions.] [__`monitoring`__ __`acoustic`__ __`SLM`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
 
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process.] [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
@@ -54,14 +61,14 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;
 
 - [[The Journal of the Acoustical Society of America (2019)](https://doi.org/10.1121/1.5136551)] Acoustic signals associated with laser-substrate interaction in powder bed fusion additive manufacturing process] [__`monitoring`__ __`acoustic`__ __`SLM`__] 
 
-- [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM)] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__] :star::
+- [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM)] [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::
 
 - [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes] [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
 
-- [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__] :star::
+- [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__ __`SLM`__] :star::
 
 
-- [[Mechanics Research Communications (2017)](https://www.sciencedirect.com/science/article/abs/pii/S009364131630235X)] Acoustic emission monitoring of crack propagation in additively manufactured and conventional titanium components] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__] :star::
+- [[Mechanics Research Communications (2017)](https://www.sciencedirect.com/science/article/abs/pii/S009364131630235X)] Acoustic emission monitoring of crack propagation in additively manufactured and conventional titanium components] [__`monitoring`__ __`acoustic`__, __`DED`__, __Offline inspection(not in-situ)__, first time that AE is applied in AM components under fatigue] :star::
 
 
 
@@ -71,7 +78,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;
 
 ---
 ### Vision-based monitoring and inspections
-- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end
 displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
 
 - [[Robotics and Computer Integrated Manufacturing (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770?via%3Dihub)] OpenLMD, an open source middleware and toolkit for laser-based additive
@@ -83,7 +90,7 @@ manufacturing of large metal parts] [__`monitoring`__ __`DED`__ __`vision`__ __`
 
 ---
 ### Thermal-based monitoring and inspections
-- [[NJMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004337)] Local prediction of Laser Powder Bed Fusion porosity by short-wave infrared imaging thermal feature porosity probability maps] [__`LPBF`__ __`thermal history`__ __`porosity`__ __`Missouri University of Science and Technology`__]  :+1:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004337)] Local prediction of Laser Powder Bed Fusion porosity by short-wave infrared imaging thermal feature porosity probability maps] [__`LPBF`__ __`thermal history`__ __`porosity`__ __`Missouri University of Science and Technology`__]  :+1:
 
 - [[Npj Computational Materials (2021)](https://www.nature.com/articles/s41524-021-00555-z)] Mechanistic data-driven prediction of as-built mechanical properties in metal additive manufacturing] [__`DED`__ __`thermal history`__ __`UTS`__]  [__code(pytorch, CNN)__]( https://github.com/xiaoyuxie-vico/DL-AM), [__dataset__](https://github.com/xiaoyuxie-vico/DL_AM_Data) :fire: :+1:
 
@@ -96,7 +103,7 @@ manufacturing of large metal parts] [__`monitoring`__ __`DED`__ __`vision`__ __`
 
 ---
 ### Point Cloud-based surface/geometric monitoring
-- [[IJMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing
+- [[JMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing
 displacement and strain measurement] [__`monitoring`__ __`surface`__ __`planning`__]
 
 
@@ -133,7 +140,7 @@ improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`materia
 
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
 
-- [[IJMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
 
 - [[Computational Mechanics (2021)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)]Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed
 neural networks[__`Physics informed AI`__ __`Thermal multiphase flows`__] [code and dataset](https://yan.cee.illinois.edu/) :fire:
