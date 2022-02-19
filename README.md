@@ -1,16 +1,16 @@
-# In-situ process monitoring and control for Laser-based Additive manufacturing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__). The paper collection here focus only on highly cited, or open-source or latest articles from top tier journal/conferences.
+# In-situ process monitoring and adaptive control for laser-based additive manufacturing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__). The paper collection here focus only on highly cited/open-source/latest articles from __top tier__ journal/conferences.
 
-Other research area including hybrid additive-subtractive manufacturing, Physics-informed machine learning for AM, and path planning are also briefly included. 
+Other research area including hybrid additive-subtractive manufacturing, physics-informed machine learning for AM, and AM robotic path planning are also briefly included. 
 
-For anyone who wants to do research about Additive Manufacturing process monitoring, control, and intelligent decision-making, hope this is helpful to you.   
+For anyone who wants to do research about AM process monitoring, control, and intelligent decision-making, hope this is helpful to you.   
 
 If you find the paper/code/dataset or have some suggestions, please contact chen1189@e.ntu.edu.sg. Thanks for your valuable contribution to the research community. 
 
 
 # Table of Contents
 - [Latest review articles](#latest-review-articles)
-- [AI assisted in situ process monitoring](#ai-assisted-in-situ-process-monitoring)
+- [In-situ process monitoring](#process-monitoring-for-lam)
     - [Acoustic signal-based monitoring](#acoustic-signal-based-monitoring)
     - [Vision-based monitoring](#vision-based-monitoring-and-inspections)
     - [Thermal-based monitoring](#thermal-based-monitoring-and-inspections)
@@ -35,7 +35,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;
 ---
 ## Latest review articles
 
-- [[Additive Manufacturing (2022))](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing] [__`monitoring`__ __`ML`__] 
+- [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing] [__`monitoring`__ __`ML`__] 
 
 - [[IJMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives.] [__`monitoring`__] 
 
@@ -63,7 +63,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: citation >= 20 &emsp;
 
 - [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM)] [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::
 
-- [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes] [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
+- [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
 
 - [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks.] [__`monitoring`__ __`acoustic`__ __`SLM`__] :star::
 
