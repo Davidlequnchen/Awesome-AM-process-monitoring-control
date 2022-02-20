@@ -49,14 +49,20 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 ### Acoustic signal-based monitoring
 
 
-- [[JMPT (2022))](https://www.sciencedirect.com/science/article/pii/S0924013622000437)] Deep Transfer Learning of Additive Manufacturing Mechanisms Across Materials in Metal-Based Laser Powder Bed Fusion Process. [__`monitoring`__ __`acoustic`__ __`SLM`__ __`transfer learning`__] [__code(pytorch), dataset__](https://c4science.ch/diffusion/11778/)  :fire:: :fire:: :+1:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013622000437)] Deep Transfer Learning of Additive Manufacturing Mechanisms Across Materials in Metal-Based Laser Powder Bed Fusion Process. [__`monitoring`__ __`acoustic`__ __`SLM`__ __`transfer learning`__] [__code(pytorch), dataset__](https://c4science.ch/diffusion/11778/)  :fire:: :fire:: :+1:
 
-- [[VPP (2021))](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions. [__`monitoring`__ __`acoustic`__ __`SLM`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
+- [[VPP (2021)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2021.1966166)] Semi-supervised Monitoring of Laser powder bed fusion process based on acoustic emissions. [__`monitoring`__ __`acoustic`__ __`SLM`__] [code(pytorch)](https://c4science.ch/diffusion/11519/) :star:: :fire:: :+1:
 
-- [[The International Journal of Advanced Manufacturing Technology (2021))](https://doi.org/10.1007/s00170-021-07848-z)] A novel AE algorithm-based approach for the detection of cracks in spot welding in view of online monitoring: case study [__`monitoring`__ __`acoustic`__ __`welding`__] 
+- [[Int J Adv Manuf Techno (2021)](https://doi.org/10.1007/s00170-021-07721-z)] In-situ process monitoring for metal additive manufacturing through acoustic techniques using wavelet and convolutional neural network (CNN). [__`monitoring`__ __`acoustic`__ __`DED`__]
+
+
+- [[Int J Adv Manuf Techno (2021)](https://doi.org/10.1007/s00170-021-07848-z)] A novel AE algorithm-based approach for the detection of cracks in spot welding in view of online monitoring: case study [__`monitoring`__ __`acoustic`__ __`welding`__] 
 
 
 - [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process. [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
+
+- [[ASME Journal of Manufacturing Science and Engineering (2019))](https://doi.org/10.1115/1.4042786)] In Situ Additive Manufacturing Process Monitoring With an Acoustic Technique: Clustering Performance Evaluation Using K-Means Algorithm process. [__`clustering`__ __`acoustic`__ __`DED`__] :+1::star:
+
 
 
 - [[IEEE Transactions on Industrial Informatics (2019)](https://ieeexplore.ieee.org/abstract/document/8688503)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star:: :+1:
@@ -68,7 +74,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM) [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::
 
-- [[ Additive Manufacturing (2018)](https://www.sciencedirect.com/science/article/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks [__`monitoring`__ __`acoustic`__, __`SLM`__] :star:::star:::star:::star:::star:::+1:
+- [[ Additive Manufacturing (2018)](https://www.sciencedirect.com/science/article/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks [__`monitoring`__ __`acoustic`__, __`SLM`__] :star:::star:+1: (one of the earliest research)
 
 
 - [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
@@ -81,11 +87,15 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 
 
-
 ---
 ### Vision-based monitoring and inspections
-- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end
-displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
+
+
+- [[Journal of manufacturing process (2022)](https://www.sciencedirect.com/science/article/pii/S0278612522000127)] Deep learning for in-situ powder stream fault detection in directed energy deposition process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`powder stream`__] :+1:
+
+- [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing] [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1:star:star:
+
 
 
 - [[IEEE Access (2021)](https://ieeexplore.ieee.org/document/9381862)] Improving Build Quality in Laser Powder Bed Fusion Using High Dynamic Range Imaging and Model-Based Reinforcement Learning] [__`reinforcement learning`__ __`CNN`__ __`LPBF`__ __`vision`__ __`surface defect (roughness)`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
@@ -155,6 +165,13 @@ improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`materia
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
+
+
+- [[Applied Materials Today (2021)](https://www.sciencedirect.com/science/article/pii/S2352940721001888)] Physics-informed machine learning and mechanistic modeling of additive manufacturing to reduce defects [__`Physics informed AI`__ __`process`__ __`Vision`__] :+1:
+
+- [[CIRP Annals (2021)](https://www.sciencedirect.com/science/article/pii/S0007850620300718)] A physics-driven deep learning model for process-porosity causal relationship and porosity prediction with interpretability in laser metal deposition [__`Physics informed AI`__ __`process`__ __`Vision`__] [dataset(article)](https://www.sciencedirect.com/science/article/pii/S2352340916301081) [dataset(link)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) :fire::+1:
+
+
 
 - [[Computational Mechanics (2021)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)]Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed
 neural networks[__`Physics informed AI`__ __`Thermal multiphase flows`__] [code and dataset](https://yan.cee.illinois.edu/) :fire:
