@@ -64,8 +64,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[ASME Journal of Manufacturing Science and Engineering (2019))](https://doi.org/10.1115/1.4042786)] In Situ Additive Manufacturing Process Monitoring With an Acoustic Technique: Clustering Performance Evaluation Using K-Means Algorithm process. [__`clustering`__ __`acoustic`__ __`DED`__] :+1::star:
 
 
-
-- [[IEEE Transactions on Industrial Informatics (2019)](https://ieeexplore.ieee.org/abstract/document/8688503)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star:: :+1:
+- [[IEEE Transactions on Industrial Informatics (2019)](https://ieeexplore.ieee.org/abstract/document/8688503)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star::+1:
 
 - [[ASME Journal of Materials Engineering and Performance (2019)](https://link.springer.com/article/10.1007/s11665-018-3690-2)] In Situ Quality Monitoring in AM Using Acoustic Emission: A Reinforcement Learning Approach [__`monitoring`__ __`acoustic`__ __`SLM`__] :star:: :+1:
 
@@ -74,7 +73,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM) [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::
 
-- [[ Additive Manufacturing (2018)](https://www.sciencedirect.com/science/article/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks [__`monitoring`__ __`acoustic`__, __`SLM`__] :star:::star:+1: (one of the earliest research)
+- [[ Additive Manufacturing (2018)](https://www.sciencedirect.com/science/article/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::star::+1: (one of the earliest research)
 
 
 - [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
@@ -94,7 +93,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[Journal of manufacturing process (2022)](https://www.sciencedirect.com/science/article/pii/S0278612522000127)] Deep learning for in-situ powder stream fault detection in directed energy deposition process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`powder stream`__] :+1:
 
-- [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing] [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1:star:star:
+- [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing] [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1::star:
 
 
 
@@ -163,6 +162,11 @@ improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`materia
 ##  Physics-informed machine learning for Additive Manufacturing
 
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
+
+
+
+- [[Sensors (2022)](https://doi.org/10.3390/s22020494)] A Physics-Informed Convolutional Neural Network with Custom Loss Functions for Porosity Prediction in Laser Metal Deposition [__`Physics informed AI`__ __`quality`__ __`melt pool`__][dataset(link)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) :fire: (Journal version of CIRP conference paper [link](https://www.sciencedirect.com/science/article/pii/S0007850620300718))
+
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
 
