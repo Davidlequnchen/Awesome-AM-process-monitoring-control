@@ -78,7 +78,6 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
 
-- [[Additive Manufacturing (2017)](https://www.sciencedirect.com/science/article/abs/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks. [__`monitoring`__ __`acoustic`__ __`SLM`__] :star::
 
 - [[JMPT (2017)](https://www.sciencedirect.com/science/article/pii/S0924013617302777)] Automated control of welding penetration based on audio sensing technology [__`monitoring`__ __`acoustic`__ __`welding`__ __`penetration prediction`__] :star:::star:::+1::
 
