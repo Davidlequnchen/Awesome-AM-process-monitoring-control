@@ -99,8 +99,6 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[IJMPT (2021)](https://www.sciencedirect.com/science/article/pii/S0924013620304180)] Investigation on coaxial visual characteristics of molten pool in laser-based directed energy deposition of AISI 316L steel] [ __`co-axial`__ __`vision`__ __`melt pool`__ __`CMOS`__] :+1:
 
 
-
-
 - [[Sensors (2021)](https://www.mdpi.com/1424-8220/21/12/4205)] A Spatio-Temporal Ensemble Deep Learning Architecture for Real-Time Defect Detection during Laser Welding on Low Power Embedded Computing Boards] [__`CNN`__ __`lack of fusion`__ __`welding`__ __`vision`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
 
 
