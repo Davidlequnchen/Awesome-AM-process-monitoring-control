@@ -1,5 +1,7 @@
 # In-situ process monitoring and adaptive control for laser-based additive manufacturing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__). The paper collection here focus only on highly cited/open-source/latest articles from __top tier__ journal/conferences.
+A list of papers about in-situ process monitoring and closed-loop control for laser-based additive manufacturing (LAM) - DED/LPBF. (__continously updating__). 
+
+The paper collection here focus on highly cited/open-source/latest articles from top tier journal/conferences.
 
 Other research area including hybrid additive-subtractive manufacturing, physics-informed machine learning for AM, and AM robotic path planning are also briefly included. 
 
@@ -59,9 +61,9 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[Int J Adv Manuf Techno (2021)](https://doi.org/10.1007/s00170-021-07848-z)] A novel AE algorithm-based approach for the detection of cracks in spot welding in view of online monitoring: case study [__`monitoring`__ __`acoustic`__ __`welding`__] 
 
 
-- [[Procedia CIRP (2020))](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process. [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
+- [[Procedia CIRP (2020)](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process. [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
 
-- [[ASME Journal of Manufacturing Science and Engineering (2019))](https://doi.org/10.1115/1.4042786)] In Situ Additive Manufacturing Process Monitoring With an Acoustic Technique: Clustering Performance Evaluation Using K-Means Algorithm process. [__`clustering`__ __`acoustic`__ __`DED`__] :+1::star:
+- [[ASME Journal of Manufacturing Science and Engineering (2019)](https://doi.org/10.1115/1.4042786)] In Situ Additive Manufacturing Process Monitoring With an Acoustic Technique: Clustering Performance Evaluation Using K-Means Algorithm process. [__`clustering`__ __`acoustic`__ __`DED`__] :+1::star:
 
 
 - [[IEEE Transactions on Industrial Informatics (2019)](https://ieeexplore.ieee.org/abstract/document/8688503)] Deep Learning for In Situ and Real-Time Quality Monitoring in Additive Manufacturing Using Acoustic Emission [__`monitoring`__ __`acoustic`__ __`SLM`__] :star::+1:
@@ -92,20 +94,20 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004362)] Correlating in-situ sensor data to defect locations and part quality for additively manufactured parts using machine learning [__`monitoring`__ __`defect correction`__ __`vision`__] 
 
 
-- [[Journal of manufacturing process (2022)](https://www.sciencedirect.com/science/article/pii/S0278612522000127)] Deep learning for in-situ powder stream fault detection in directed energy deposition process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`powder stream`__] :+1:
+- [[Journal of manufacturing process (2022)](https://www.sciencedirect.com/science/article/pii/S0278612522000127)] Deep learning for in-situ powder stream fault detection in directed energy deposition process [__`monitoring`__ __`melt pool`__ __`vision`__ __`powder stream`__] :+1:
 
 
-- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013622000358)] Motion feature based melt pool monitoring for selective laser melting process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`SLM`__] :+1::+1:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013622000358)] Motion feature based melt pool monitoring for selective laser melting process [__`monitoring`__ __`melt pool`__ __`vision`__ __`SLM`__] :+1::+1:
 
 
-- [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing] [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1::star:
+- [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1::star:
 
 
-- [[IEEE Access (2021)](https://ieeexplore.ieee.org/document/9381862)] Improving Build Quality in Laser Powder Bed Fusion Using High Dynamic Range Imaging and Model-Based Reinforcement Learning] [__`reinforcement learning`__ __`CNN`__ __`LPBF`__ __`vision`__ __`surface defect (roughness)`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
+- [[IEEE Access (2021)](https://ieeexplore.ieee.org/document/9381862)] Improving Build Quality in Laser Powder Bed Fusion Using High Dynamic Range Imaging and Model-Based Reinforcement Learning [__`reinforcement learning`__ __`CNN`__ __`LPBF`__ __`vision`__ __`surface defect (roughness)`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
 
-- [[IJMPT (2021)](https://www.sciencedirect.com/science/article/pii/S0924013620304180)] Investigation on coaxial visual characteristics of molten pool in laser-based directed energy deposition of AISI 316L steel] [ __`co-axial`__ __`vision`__ __`melt pool`__ __`CMOS`__] :+1:
+- [[IJMPT (2021)](https://www.sciencedirect.com/science/article/pii/S0924013620304180)] Investigation on coaxial visual characteristics of molten pool in laser-based directed energy deposition of AISI 316L steel [ __`co-axial`__ __`vision`__ __`melt pool`__ __`CMOS`__] :+1:
 
-- [[Sensors (2021)](https://www.mdpi.com/1424-8220/21/12/4205)] A Spatio-Temporal Ensemble Deep Learning Architecture for Real-Time Defect Detection during Laser Welding on Low Power Embedded Computing Boards] [__`CNN`__ __`lack of fusion`__ __`welding`__ __`vision`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
+- [[Sensors (2021)](https://www.mdpi.com/1424-8220/21/12/4205)] A Spatio-Temporal Ensemble Deep Learning Architecture for Real-Time Defect Detection during Laser Welding on Low Power Embedded Computing Boards [__`CNN`__ __`lack of fusion`__ __`welding`__ __`vision`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
 
 
 
