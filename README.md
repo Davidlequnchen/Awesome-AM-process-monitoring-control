@@ -87,19 +87,26 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 ---
 ### Vision-based monitoring and inspections
-- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement] [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
+
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004362)] Correlating in-situ sensor data to defect locations and part quality for additively manufactured parts using machine learning [__`monitoring`__ __`defect correction`__ __`vision`__] 
 
 
 - [[Journal of manufacturing process (2022)](https://www.sciencedirect.com/science/article/pii/S0278612522000127)] Deep learning for in-situ powder stream fault detection in directed energy deposition process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`powder stream`__] :+1:
 
+
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013622000358)] Motion feature based melt pool monitoring for selective laser melting process] [__`monitoring`__ __`melt pool`__ __`vision`__ __`SLM`__] :+1::+1:
+
+
 - [[CIRP Anual (2019)](https://www.sciencedirect.com/science/article/pii/S0007850619300228)] Machine learning-based image processing for on-line defect recognition in additive manufacturing] [__`online image processing`__ __`SLM`__ __`powder non-conformaties`__ ] :+1::star:
+
 
 - [[IEEE Access (2021)](https://ieeexplore.ieee.org/document/9381862)] Improving Build Quality in Laser Powder Bed Fusion Using High Dynamic Range Imaging and Model-Based Reinforcement Learning] [__`reinforcement learning`__ __`CNN`__ __`LPBF`__ __`vision`__ __`surface defect (roughness)`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
 
 - [[IJMPT (2021)](https://www.sciencedirect.com/science/article/pii/S0924013620304180)] Investigation on coaxial visual characteristics of molten pool in laser-based directed energy deposition of AISI 316L steel] [ __`co-axial`__ __`vision`__ __`melt pool`__ __`CMOS`__] :+1:
 
-
 - [[Sensors (2021)](https://www.mdpi.com/1424-8220/21/12/4205)] A Spatio-Temporal Ensemble Deep Learning Architecture for Real-Time Defect Detection during Laser Welding on Low Power Embedded Computing Boards] [__`CNN`__ __`lack of fusion`__ __`welding`__ __`vision`__ __`Fraunhofer-Institute for Laser Technology`__] :+1:
+
 
 
 ---
