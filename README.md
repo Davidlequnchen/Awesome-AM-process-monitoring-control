@@ -33,7 +33,7 @@ __`DED`__: Direct Energy Deposition &emsp; | &emsp; __`LPBF`__: Laser-based powd
 __`AI`__: AI-assisted advanced monitoring approach &emsp; | &emsp;
 __`oth.`__: other, including normal-related, correspondence, mapping, matching, alignment, compression, generative model...
 
-Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citation >= 30) &emsp;|&emsp; :+1: Really good paper that you should pay attention to 
+Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citation >= 30) &emsp;|&emsp; :+1: Recommended
 ---
 ## Latest review articles
 
@@ -90,6 +90,8 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 ---
 ### Vision-based monitoring and inspections
+<!-- - [[Polymers (2022)](https://www.mdpi.com/2073-4360/14/5/885)] Inline Quality Control through Optical Deep Learning-Based Porosity Determination for Powder Bed Fusion of Polymers [__`monitoring`__ __`PBF`__ __`vision`__]   -->
+
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004362)] Correlating in-situ sensor data to defect locations and part quality for additively manufactured parts using machine learning [__`monitoring`__ __`defect correction`__ __`vision`__] 
