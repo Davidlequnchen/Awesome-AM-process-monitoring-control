@@ -50,6 +50,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 ---
 ### Acoustic signal-based monitoring
 
+- [[VPP (2021)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2028380)] Differentiation of materials and laser powder bed fusion processing regimes from airborne acoustic emission combined with machine learning [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013622000437)] Deep Transfer Learning of Additive Manufacturing Mechanisms Across Materials in Metal-Based Laser Powder Bed Fusion Process. [__`monitoring`__ __`acoustic`__ __`SLM`__ __`transfer learning`__] [__code(pytorch), dataset__](https://c4science.ch/diffusion/11778/)  :fire:: :fire:: :+1:
 
