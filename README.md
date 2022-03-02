@@ -37,7 +37,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 ---
 ## Latest review articles
 
-- [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing] [__`monitoring`__ __`ML`__] 
+- [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing [__`monitoring`__ __`ML`__] 
 
 - [[JMPT (2022))](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004453)] Mechanistic artificial intelligence (mechanistic-AI) for modeling, design, and control of advanced manufacturing processes: Current state and perspectives. [__`monitoring`__] 
 
@@ -138,6 +138,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 ### Point Cloud-based surface/geometric monitoring
 - [[JMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing displacement and strain measurement [__`monitoring`__ __`surface`__ __`planning`__]
 
+- [[VPP (2021)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2020.1832695)] Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`machine learning`__]
 
 - [[Solid freeform fabrication (2018)](https://link.springer.com.remotexs.ntu.edu.sg/article/10.1007/s11837-018-3220-6)] Defect Identification and Mitigation Via Visual Inspection in Large-Scale Additive Manufacturing [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`height control`__]
 
@@ -151,9 +152,10 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`control`__]  [__code (OpenLMD, ROS)__](https://github.com/openlmd), [dataset](https://zenodo.org/record/45664#.YgW-f99BxPY) :fire: :+1:
 ---	
 ## Closed loop feedback control	
-- [[Lasers in Manufacturing and Materials Processing (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Fabrication of Thin Walls with and without Close Loop
-Control as a Function of Scan Strategy Via DED. [__`control`__ __`DED`__]	
+- [[Lasers in Manufacturing and Materials Processing (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Fabrication of Thin Walls with and without Close Loop Control as a Function of Scan Strategy Via DED. [__`control`__ __`DED`__]	
  
+- [[Applied Sciences (2021)](https://www.mdpi.com/2076-3417/10/22/7967)] Data-Driven Adaptive Control for Laser-Based Additive Manufacturing with Automatic Controller Tuning [__`control`__ __`DED`__]	
+
 
 ---	
 ## Process planning and path planning for AM and hybrid AM
