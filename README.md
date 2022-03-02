@@ -61,6 +61,10 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[Int J Adv Manuf Techno (2021)](https://doi.org/10.1007/s00170-021-07848-z)] A novel AE algorithm-based approach for the detection of cracks in spot welding in view of online monitoring: case study [__`monitoring`__ __`acoustic`__ __`welding`__] 
 
+- [[Optics and Laser Technology (2021)](https://www.sciencedirect.com/science/article/pii/S0030399221004266)] On the application of machine learning for defect detection in L-PBF additive manufacturing [__`monitoring`__ __`acoustic`__ __`L-PBF`__] 
+
+
+
 
 - [[Procedia CIRP (2020)](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process. [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
 
