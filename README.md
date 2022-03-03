@@ -95,6 +95,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 ---
 ### Vision-based monitoring and inspections
 <!-- - [[Polymers (2022)](https://www.mdpi.com/2073-4360/14/5/885)] Inline Quality Control through Optical Deep Learning-Based Porosity Determination for Powder Bed Fusion of Polymers [__`monitoring`__ __`PBF`__ __`vision`__]   -->
+- [[AM Letters (2022)](https://www.sciencedirect.com/science/article/pii/S2772369021000244)] Multi-faceted monitoring of powder flow rate variability in directed energy deposition [__`monitoring`__ __`DED`__ __`vision`__ __`powder flow rate`__] :+1:
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013621004349?dgcid=rss_sd_all)] Deep DIC: Deep learning-based digital image correlation for end-to-end displacement and strain measurement [__`monitoring`__ __`DIC`__ __`vision`__]  [__code (pytorch)__](https://github.com/RuYangNU/Deep-Dic-deep-learning-based-digital-image-correlation), [dataset](https://drive.google.com/drive/folders/1n2axHsJ3flHxk_edceY6eOfiX7GjW_d6) :fire::fire:
 
