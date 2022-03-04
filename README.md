@@ -143,14 +143,18 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 - [[Solid freeform fabrication (2018)](https://link.springer.com.remotexs.ntu.edu.sg/article/10.1007/s11837-018-3220-6)] Defect Identification and Mitigation Via Visual Inspection in Large-Scale Additive Manufacturing [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`height control`__]
 
-
-
+- [[Journal of Manufacturing Processes (2019)](https://www.sciencedirect.com/science/article/pii/S1526612518306030)] Structured light-based height control for laser metal deposition [__`monitoring`__ __`surface`__ __`Structured light`__ __`height control`__]
 
 
 ---	
 ## Multimodal process monitoring
 - [[Robotics and Computer Integrated Manufacturing (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770?via%3Dihub)] OpenLMD, an open source middleware and toolkit for laser-based additive
 manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`control`__]  [__code (OpenLMD, ROS)__](https://github.com/openlmd), [dataset](https://zenodo.org/record/45664#.YgW-f99BxPY) :fire: :+1:
+
+- [[IEEE Robotics and Automation Letters (2018)](https://ieeexplore.ieee.org/abstract/document/8400414)] Multisensor Data Fusion for Additive Manufacturing Process Control [__`monitoring`__ __`DED`__ __`vision`__] :star: :+1: 
+
+
+
 ---	
 ## Closed loop feedback control	
 - [[Lasers in Manufacturing and Materials Processing (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Fabrication of Thin Walls with and without Close Loop Control as a Function of Scan Strategy Via DED. [__`control`__ __`DED`__]	
