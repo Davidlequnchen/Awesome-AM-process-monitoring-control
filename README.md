@@ -64,8 +64,6 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[Optics and Laser Technology (2021)](https://www.sciencedirect.com/science/article/pii/S0030399221004266)] On the application of machine learning for defect detection in L-PBF additive manufacturing [__`monitoring`__ __`acoustic`__ __`L-PBF`__] 
 
 
-
-
 - [[Procedia CIRP (2020)](https://www.sciencedirect.com/science/article/pii/S2212827120313408)] Analysis of time, frequency and time-frequency domain features from acoustic emissions during Laser Powder-Bed fusion process. [__`monitoring`__ __`acoustic`__ __`SLM`__] :+1:
 
 - [[ASME Journal of Manufacturing Science and Engineering (2019)](https://doi.org/10.1115/1.4042786)] In Situ Additive Manufacturing Process Monitoring With an Acoustic Technique: Clustering Performance Evaluation Using K-Means Algorithm process. [__`clustering`__ __`acoustic`__ __`DED`__] :+1::star:
@@ -146,6 +144,14 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[Journal of Manufacturing Processes (2019)](https://www.sciencedirect.com/science/article/pii/S1526612518306030)] Structured light-based height control for laser metal deposition [__`monitoring`__ __`surface`__ __`Structured light`__ __`height control`__]
 
 
+---
+### Others
+- [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000881)] A defect detection system for wire arc additive manufacturing using incremental learning [__`monitoring`__ __`WAAM`__ __`electrical`__ __`machine learning`__]
+
+- [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000182)] The first step towards intelligent wire arc additive manufacturing: An automatic bead modelling system using machine learning through
+industrial information integration [__`monitoring`__ __`WAAM`__ __`bead modelling`__ __`machine learning`__]
+
+
 ---	
 ## Multimodal process monitoring
 - [[Robotics and Computer Integrated Manufacturing (2018)](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770?via%3Dihub)] OpenLMD, an open source middleware and toolkit for laser-based additive
@@ -165,28 +171,33 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 ---	
 ## Process planning and path planning for AM and hybrid AM
 
+- [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.[__`planning`__ __`DED`__ __'University of Waterloo'__]
 
-- [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.] [__`planning`__ __`DED`__ __'University of Waterloo'__]
+- [[VPP (2022)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2031232?src=)] A spiral laser scanning routine for powder bed fusion inspired by natural predator-prey behaviour. [__`planning`__ __`SLM`__ __`MIT`__]	
 
-- [[VPP (2022)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2031232?src=)] A spiral laser scanning routine for powder bed fusion inspired by natural predator-prey behaviour.] [__`planning`__ __`SLM`__ __`MIT`__]	
+
 
 
 ## Hybrid AM - material, process, systems
-- [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2034081?src=&journalCode=nvpp20)] High-speed machining of additively manufactured Inconel 718 using hybrid cryogenic cooling methods] [__`hybridAM`__ __`DED`__  __`milling`__ __`material`__ __`CNC`__]
+- [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2034081?src=&journalCode=nvpp20)] High-speed machining of additively manufactured Inconel 718 using hybrid cryogenic cooling methods [__`hybridAM`__ __`DED`__  __`milling`__ __`material`__ __`CNC`__]
 
 - [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000549)] Hybrid additive manufacturing (__DED__ + __ultrasonic
 micro-forging treatment (UMT)__) for performance
-improvement of martensitic stainless steel] [__`hybridAM`__ __`DED`__ __`material`__]
+improvement of martensitic stainless steel [__`hybridAM`__ __`DED`__ __`material`__]
 
-- [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2029009?src=&journalCode=nvpp20)] Investigation on synergism between additive and subtractive manufacturing for curved thin-walled structure,  multiple-cycle hybrid manufacturing (MCHM) vs. one-cycle hybrid manufacturing (OCHM) ] [__`hybridAM`__  __`thin-wall`__ __`process`__] 
- 
+- [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2029009?src=&journalCode=nvpp20)] Investigation on synergism between additive and subtractive manufacturing for curved thin-walled structure,  multiple-cycle hybrid manufacturing (MCHM) vs. one-cycle hybrid manufacturing (OCHM)[__`hybridAM`__  __`thin-wall`__ __`process`__]
+
+
+- [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000637)]Integration of a multi-directional wire arc additive manufacturing system with an automated process planning algorithm [__`WAAM`__  __`welding`__ __`Collision avoidance`__] :+1:
+
+
+- [[Robotics and Computer-Integrated Manufacturing (2021)](https://www.sciencedirect.com/science/article/pii/S0736584521001666)]Region-based path planning method with all horizontal welding position for robotic curved layer wire and arc additive manufacturing [__`WAAM`__  __`welding`__ __`Curved layer additive manufacturing`__] :+1:
+
 
 
 ##  Physics-informed machine learning for Additive Manufacturing
 
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
-
-
 
 - [[Sensors (2022)](https://doi.org/10.3390/s22020494)] A Physics-Informed Convolutional Neural Network with Custom Loss Functions for Porosity Prediction in Laser Metal Deposition [__`Physics informed AI`__ __`quality`__ __`melt pool`__][dataset(link)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) :fire: (Journal version of CIRP conference paper [link](https://www.sciencedirect.com/science/article/pii/S0007850620300718))
 
