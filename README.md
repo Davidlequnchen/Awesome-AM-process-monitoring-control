@@ -179,6 +179,10 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 - [[VPP (2022)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2031232?src=)] A spiral laser scanning routine for powder bed fusion inspired by natural predator-prey behaviour. [__`planning`__ __`SLM`__ __`MIT`__]	
 
+- [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000637)]Integration of a multi-directional wire arc additive manufacturing system with an automated process planning algorithm [__`WAAM`__  __`welding`__ __`Collision avoidance`__] :+1:
+
+- [[Robotics and Computer-Integrated Manufacturing (2021)](https://www.sciencedirect.com/science/article/pii/S0736584521001666)]Region-based path planning method with all horizontal welding position for robotic curved layer wire and arc additive manufacturing [__`WAAM`__  __`welding`__ __`Curved layer additive manufacturing`__] :+1:
+
 
 
 
@@ -191,11 +195,6 @@ improvement of martensitic stainless steel [__`hybridAM`__ __`DED`__ __`material
 
 - [[VPP (2022)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2022.2029009?src=&journalCode=nvpp20)] Investigation on synergism between additive and subtractive manufacturing for curved thin-walled structure,  multiple-cycle hybrid manufacturing (MCHM) vs. one-cycle hybrid manufacturing (OCHM)[__`hybridAM`__  __`thin-wall`__ __`process`__]
 
-
-- [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000637)]Integration of a multi-directional wire arc additive manufacturing system with an automated process planning algorithm [__`WAAM`__  __`welding`__ __`Collision avoidance`__] :+1:
-
-
-- [[Robotics and Computer-Integrated Manufacturing (2021)](https://www.sciencedirect.com/science/article/pii/S0736584521001666)]Region-based path planning method with all horizontal welding position for robotic curved layer wire and arc additive manufacturing [__`WAAM`__  __`welding`__ __`Curved layer additive manufacturing`__] :+1:
 
 
 
