@@ -17,6 +17,7 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
     - [Vision-based monitoring](#vision-based-monitoring-and-inspections)
     - [Thermal-based monitoring](#thermal-based-monitoring-and-inspections)
     - [Point cloud-based surface monitoring](#point-cloud-based-surfacegeometric-monitoring)
+    - [other types of monitoring](#others)
 - [Closed loop feedback control](#closed-loop-feedback-control)
 - [Process planning and robotic path planning for AM and hybrid AM](#process-planning-and-path-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
@@ -135,6 +136,8 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 ---
 ### Point Cloud-based surface/geometric monitoring
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565)] In-process adaptive dimension correction strategy for laser aided additive manufacturing using laser line scanning [__`monitoring`__ __`surface`__ __`point cloud`__ __`defect correction`__]
+
 - [[JMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing displacement and strain measurement [__`monitoring`__ __`surface`__ __`planning`__]
 
 - [[VPP (2021)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2020.1832695)] Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`machine learning`__]
@@ -142,6 +145,7 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[Solid freeform fabrication (2018)](https://link.springer.com.remotexs.ntu.edu.sg/article/10.1007/s11837-018-3220-6)] Defect Identification and Mitigation Via Visual Inspection in Large-Scale Additive Manufacturing [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`height control`__]
 
 - [[Journal of Manufacturing Processes (2019)](https://www.sciencedirect.com/science/article/pii/S1526612518306030)] Structured light-based height control for laser metal deposition [__`monitoring`__ __`surface`__ __`Structured light`__ __`height control`__]
+
 
 
 ---
