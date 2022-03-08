@@ -37,6 +37,8 @@ __`oth.`__: other, including normal-related, correspondence, mapping, matching, 
 Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citation >= 30) &emsp;|&emsp; :+1: Recommended
 ---
 ## Latest review articles
+- [[Journal of Manufacturing Processes (2022)](https://www.sciencedirect.com/science/article/pii/S1526612521008446)] Process modeling in laser powder bed fusion towards defect detection and quality control via machine learning: The state-of-the-art and research challenges [__`monitoring`__ __`ML`__ __`LPBF`__] 
+
 
 - [[Additive Manufacturing (2022)](https://www.sciencedirect.com/science/article/abs/pii/S2214860422000963?via%3Dihub)] Research and Application of Machine Learning for Additive Manufacturing [__`monitoring`__ __`ML`__] 
 
