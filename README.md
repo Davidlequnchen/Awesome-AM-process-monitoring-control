@@ -166,6 +166,10 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 - [[IEEE Robotics and Automation Letters (2018)](https://ieeexplore.ieee.org/abstract/document/8400414)] Multisensor Data Fusion for Additive Manufacturing Process Control [__`monitoring`__ __`DED`__ __`vision`__] :star: :+1: 
 
 
+---	
+## Recent Scientific Paper on LAM defects study	
+- [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-28649-2)Controlling process instability for defect lean metal additive manufacturing. [__`defect`__ __`LPBF`__]	
+
 
 ---	
 ## Closed loop feedback control	
