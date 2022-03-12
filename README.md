@@ -181,11 +181,15 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 ---	
 ## Process planning and path planning for AM and hybrid AM
 
+
 - [[AM Letters (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Process planning for additive manufacturing of geometries with variable overhang angles using a robotic laser DED system.[__`planning`__ __`DED`__ __'University of Waterloo'__]
 
 - [[VPP (2022)](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2031232?src=)] A spiral laser scanning routine for powder bed fusion inspired by natural predator-prey behaviour. [__`planning`__ __`SLM`__ __`MIT`__]	
 
 - [[JIII (2021)](https://www.sciencedirect.com/science/article/pii/S2452414X21000637)]Integration of a multi-directional wire arc additive manufacturing system with an automated process planning algorithm [__`WAAM`__  __`welding`__ __`Collision avoidance`__] :+1:
+
+- [[Additive Manufacturing (2021)](https://www.sciencedirect.com/science/article/pii/S2214860421005005)] An evolutional algorithm for automatic 2D layer segmentation in laser-aided additive manufacturing.[__`planning`__ __`DED`__] :+1:
+
 
 - [[Robotics and Computer-Integrated Manufacturing (2021)](https://www.sciencedirect.com/science/article/pii/S0736584521001666)]Region-based path planning method with all horizontal welding position for robotic curved layer wire and arc additive manufacturing [__`WAAM`__  __`welding`__ __`Curved layer additive manufacturing`__] :+1:
 
@@ -220,6 +224,8 @@ Alternative to the timely and costly FEM simulations of the thermal history in a
 
 
 
-- [[Computational Mechanics (2021)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)]Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed
-neural networks[__`Physics informed AI`__ __`Thermal multiphase flows`__] [code and dataset](https://yan.cee.illinois.edu/) :fire:
+- [[Computer Methods in Applied Mechanics and Engineering (2021)](https://www.sciencedirect.com/science/article/pii/S0045782519306243)]Thermal field prediction for laser scanning paths in laser aided additive manufacturing by physics-based machine learning[__`Physics based AI`__ __`Thermal field prediction`__] :+1:
+
+
+- [[Computational Mechanics (2021)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)]Machine learning for metal additive manufacturing: predicting temperature and melt pool fluid dynamics using physics-informed neural networks[__`Physics informed AI`__ __`Thermal multiphase flows`__] [code and dataset](https://yan.cee.illinois.edu/) :fire:
 
