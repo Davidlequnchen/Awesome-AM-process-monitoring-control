@@ -19,6 +19,7 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
     - [Point cloud-based surface monitoring](#point-cloud-based-surfacegeometric-monitoring)
     - [other types of monitoring](#others)
 - [Closed loop feedback control](#closed-loop-feedback-control)
+- [Laser AM process physics](#recent-scientific-paper-on-lam-defects-study)
 - [Process planning and robotic path planning for AM and hybrid AM](#process-planning-and-path-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
 - [Hybrid AM - material, process, systems](#hybrid-am---material-process-systems)
@@ -82,6 +83,8 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 - [[ 2018 International Solid Freeform Fabrication Symposium (2018)](https://repositories.lib.utexas.edu/handle/2152/90284)] Development of an Acoustic Process Monitoring System for Selective Laser Melting (SLM) [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::
 
 - [[ Additive Manufacturing (2018)](https://www.sciencedirect.com/science/article/pii/S221486041730132X)] Acoustic emission for in situ quality monitoring in additive manufacturing using spectral convolutional neural networks [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::star::+1: (one of the earliest research)
+
+- [[ Industrializing Additive Manufacturing - Proceedings of Additive Manufacturing in Products and Applications - AMPA2017 (2017)](http://link.springer.com/10.1007/978-3-319-66866-6_20)] In Situ and Real-Time Monitoring of Powder-Bed AM by Combining Acoustic Emission and Artificial Intelligence [__`monitoring`__ __`acoustic`__, __`SLM`__] :star::star::+1: (one of the earliest research) 
 
 
 - [[ AIP Conference Proceedings (2018)](https://doi.org/10.1063/1.5031503)] In-situ acoustic signature monitoring in additive manufacturing processes [__`monitoring`__ __`acoustic`__, __`DED`__, __`in-situ`__] :star:: :+1:
@@ -172,7 +175,6 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 - [Additive Manufacturing (2020)](https://www.sciencedirect.com/science/article/pii/S221486042030868X)An effective rule for translating optimal selective laser melting processing parameters from one material to another. [__`process parameter`__ __`LPBF`__]	 
 
-  
 
 
 ---	
