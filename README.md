@@ -170,6 +170,10 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 ## Recent Scientific Paper on LAM defects study	
 - [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-28649-2)Controlling process instability for defect lean metal additive manufacturing. [__`defect`__ __`LPBF`__]	
 
+- [Additive Manufacturing (2020)](https://www.sciencedirect.com/science/article/pii/S221486042030868X)An effective rule for translating optimal selective laser melting processing parameters from one material to another. [__`process parameter`__ __`LPBF`__]	 
+
+  
+
 
 ---	
 ## Closed loop feedback control	
@@ -213,6 +217,8 @@ improvement of martensitic stainless steel [__`hybridAM`__ __`DED`__ __`material
 Alternative to the timely and costly FEM simulations of the thermal history in additive manufacturing.
 
 - [[Sensors (2022)](https://doi.org/10.3390/s22020494)] A Physics-Informed Convolutional Neural Network with Custom Loss Functions for Porosity Prediction in Laser Metal Deposition [__`Physics informed AI`__ __`quality`__ __`melt pool`__][dataset(link)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) :fire: (Journal version of CIRP conference paper [link](https://www.sciencedirect.com/science/article/pii/S0007850620300718))
+
+- [[Journal of Intelligent Manufacturing (2022)](https://link.springer.com/article/10.1007/s10845-021-01896-8)] Fast and accurate prediction of temperature evolutions in additive manufacturing process using deep learning [__`Physics informed AI`__ __`temperature`__ __`geometry`__]
 
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/pii/S0924013621004325)] A generic physics-based machine learning model for geometry invariant thermal history prediction in additive manufacturing [__`Physics informed AI`__ __`process`__ __`geometry`__] [__code__](https://github.com/kariln/Predictions-of-thermal-fields-in-additive-manufacturing) [dataset](https://cutt.ly/QnqXV9Z) :fire:
