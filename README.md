@@ -141,8 +141,6 @@ Statistics: :fire: code is available  &emsp;|&emsp; :star: highly cited (citatio
 
 ---
 ### Point Cloud-based surface/geometric monitoring
-- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565)] In-process adaptive dimension correction strategy for laser aided additive manufacturing using laser line scanning [__`monitoring`__ __`surface`__ __`point cloud`__ __`defect correction`__]
-
 - [[JMPT (2022)](https://doi.org/10.1016/j.jmatprotec.2021.117457)] Beyond parabolic weld bead models: AI-based 3D reconstruction of weld beads under transient conditions in wire-arc additive manufacturing displacement and strain measurement [__`monitoring`__ __`surface`__ __`planning`__]
 
 - [[VPP (2021)](https://www.tandfonline.com/doi/abs/10.1080/17452759.2020.1832695)] Rapid surface defect identification for additive manufacturing with in-situ point cloud processing and machine learning [__`monitoring`__ __`surface`__ __`laser profilometer`__ __`machine learning`__]
@@ -179,6 +177,12 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 ---	
 ## Closed loop feedback control	
+
+- [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565)] In-process adaptive dimension correction strategy for laser aided additive manufacturing using laser line scanning [__`monitoring`__ __`surface`__ __`point cloud`__ __`defect correction`__]
+
+
+- [[Journal of Intelligent Manufacturing (2022)](https://link.springer.com/article/10.1007/s10845-022-01920-5)] Layer-by-layer model-based adaptive control for wire arc additive manufacturing of thin-wall structures [__`control`__ __`DED`__ __`WAAM`__ __`MPC`__ __`MIMO control`__ __`laser scanner`__ __`bead geometry`__]	
+
 - [[Lasers in Manufacturing and Materials Processing (2022)](https://www.sciencedirect.com.remotexs.ntu.edu.sg/science/article/pii/S277236902200010X)] Fabrication of Thin Walls with and without Close Loop Control as a Function of Scan Strategy Via DED. [__`control`__ __`DED`__]	
  
 - [[Applied Sciences (2021)](https://www.mdpi.com/2076-3417/10/22/7967)] Data-Driven Adaptive Control for Laser-Based Additive Manufacturing with Automatic Controller Tuning [__`control`__ __`DED`__]	
