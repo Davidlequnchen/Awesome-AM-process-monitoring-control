@@ -171,9 +171,9 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 ---	
 ## Recent Scientific Paper on LAM defects study	
-- [Nature Communications (2022)](https://www.nature.com/articles/s41467-022-28649-2)Controlling process instability for defect lean metal additive manufacturing. [__`defect`__ __`LPBF`__]	
+- [[Nature Communications (2022)](https://www.nature.com/articles/s41467-022-28649-2)] Controlling process instability for defect lean metal additive manufacturing. [__`defect`__ __`LPBF`__]	
 
-- [Additive Manufacturing (2020)](https://www.sciencedirect.com/science/article/pii/S221486042030868X)An effective rule for translating optimal selective laser melting processing parameters from one material to another. [__`process parameter`__ __`LPBF`__]	 
+- [[Additive Manufacturing (2020)](https://www.sciencedirect.com/science/article/pii/S221486042030868X)] An effective rule for translating optimal selective laser melting processing parameters from one material to another. [__`process parameter`__ __`LPBF`__]	 
 
 
 
