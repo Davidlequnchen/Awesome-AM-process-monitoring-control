@@ -173,6 +173,8 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 - [[Additive Manufacturing (2020)](https://www.sciencedirect.com/science/article/pii/S221486042030868X)] An effective rule for translating optimal selective laser melting processing parameters from one material to another. [__`process parameter`__ __`LPBF`__]	 
 
+- [[International Journal of Heat and Mass Transfer (2017)](https://www.sciencedirect.com/science/article/pii/S0017931017310700)] Evaluation of the relevance of melt pool dynamics in Laser Material Deposition process modeling. [__`melt pool dynamics`__ __`DED`__]	 
+
 
 
 ---	
