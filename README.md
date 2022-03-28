@@ -18,7 +18,7 @@ If you find the paper/code/dataset or have some suggestions, please contact chen
     - [Thermal-based monitoring](#thermal-based-monitoring-and-inspections)
     - [Point cloud-based surface monitoring](#point-cloud-based-surfacegeometric-monitoring)
     - [other types of monitoring](#others)
-- [Closed loop feedback control](#closed-loop-feedback-control)
+- [Defect correction and closed loop feedback control](#defect-correction-and-closed-loop-feedback-controlDefect correction and closed loop feedback control)
 - [Laser AM process physics](#recent-scientific-paper-on-lam-defects-study)
 - [Process planning and robotic path planning for AM and hybrid AM](#process-planning-and-path-planning-for-am-and-hybrid-am)
 - [Multimodal process monitoring](#multimodal-process-monitoring) 
@@ -178,7 +178,10 @@ manufacturing of large metal parts [__`monitoring`__ __`DED`__ __`vision`__ __`c
 
 
 ---	
-## Closed loop feedback control	
+## Defect correction and closed loop feedback control	
+
+- [[Optics and Lasers in Engineering (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0143816621002876)] Interplay between powder catchment efficiency and layer height in self-stabilized laser metal deposition [__`monitoring`__ __`DED`__ __`powder catchment efficiency`__ __` deposited mass and layer height`__] :+1:
+
 
 - [[JMPT (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565)] In-process adaptive dimension correction strategy for laser aided additive manufacturing using laser line scanning [__`monitoring`__ __`surface`__ __`point cloud`__ __`defect correction`__]
 
