@@ -64,7 +64,7 @@ Infrared cameras and pyrometers capture thermal signatures (melt pool temperatur
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [In‑Situ Infrared Camera Monitoring for Defect & Anomaly Detection](http://arxiv.org/pdf/2407.12682) <br> *S. Hinnebusch et al.* (arXiv preprint) | *Python snippets* | *N/A* | LPBF | `FeatureExtraction` `AnomalyDetection` `ThermalSignatures` | 2024 |
-| [Mechanistic Data-Driven Prediction of As-Built Mechanical Properties in Metal AM](https://www.nature.com/articles/s41524-021-00555-z) <br> *X. Xie et al.* (Npj Comput. Mater.) | [GitHub](https://github.com/xiaoyuxie-vico/DL-AM) | [GitHub](https://github.com/xiaoyuxie-vico/DL_AM_Data) | DED | `ThermalHistory` `CNN` `MechanicalProperties` | 2021 |
+
 
 ### Surface Topography / Point Cloud Monitoring 🛰️
 
