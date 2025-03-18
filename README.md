@@ -15,9 +15,9 @@ Details of our comprehensive review paper published in 2024:
   - [Multisensor & Data Fusion](#multisensor--data-fusion-) 🧩
 - [Adaptive Process Control](#adaptive-process-control-) 🕹️
 - [Simulation for Process Optimization](#simulation-for-process-optimization-) 🖥️
-- [Hybrid Additive-Subtractive Manufacturing](#hybrid-additive-subtractive-manufacturing-) ⚙️
 - [Physics-Informed Machine Learning for AM](#physics-informed-machine-learning-) 🧠
 - [AM Robotic Path Planning](#am-robotic-path-planning-) 🤖
+- [4D Printing & Advanced Materials](###4D-Printing-&-Advanced-Materials ) 🧪
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -106,22 +106,6 @@ Physics-based simulations (thermal, mechanical, microstructural) help predict ou
 | [Graph-Based Modeling for Additive Manufacturing](https://github.com/AMPL-NU/Graph_AM_Modeling) <br> *AMPL Research Group* | [GitHub](https://github.com/AMPL-NU/Graph_AM_Modeling) | *N/A* | Various | `GraphModels` `GNN` `ProcessModeling` | 2023 |
 
 
-## Hybrid Additive-Subtractive Manufacturing ⚙️
-
-Hybrid processes combine **additive** (build-up) and **subtractive** (machining) steps in the same workflow or machine. This addresses limitations of AM (e.g., surface finish, accuracy) by machining critical surfaces or features either intermittently during the build or post-build. Research in this area includes machine tool integration and strategic toolpath planning for when to print vs. mill.
-
-| Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
-|------------------|---------|------------|---------|------|------|
-| [Hybrid Additive-Subtractive Manufacturing Using Pulsed Arc Plasma](https://www.mdpi.com/1996-1944/16/13/4809) <br> *X. Duan et al.* (Materials) | *N/A* | *N/A* | PAP (Arc DED) | `HybridManufacturing` `PulsedArc` `Milling` | 2023 |
-
-## 4D Printing & Advanced Materials 🧪
-
-4D printing adds the dimension of time to 3D printing, enabling printed parts to change shape, properties, or function in response to external stimuli. Research in this area combines advanced materials, simulation, and AI to design transformable structures.
-
-| Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
-|------------------|---------|------------|---------|------|------|
-| [AI-Assisted Material Design for 4D Printing](https://www.sciencedirect.com/science/article/pii/S2667369722000103) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/AI-assisted-material-design-for-4D-printing) | *N/A* | 4DP | `MaterialDesign` `AI` `ShapeMemory` | 2022 |
-
 
 ## Physics-Informed Machine Learning 🧠
 
@@ -148,6 +132,17 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 | [RobPath: Off‑Line Path Planning Tool for LMD Automation](https://github.com/openlmd/robpath) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/robpath) | *N/A* | LMD | `ToolpathGeneration` `Robotics` `CAD-Based` | 2020 |
 | [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *D. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | Various | `KUKA` `ROS` `MotionPlanning` | 2022 |
 | [Toolpath Design for AM Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2214860422000252) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/toolpath-design-rl) | *N/A* | FDM/Various | `ReinforcementLearning` `ToolpathOptimization` | 2022 |
+
+
+
+
+## 4D Printing & Advanced Materials 🧪
+
+4D printing adds the dimension of time to 3D printing, enabling printed parts to change shape, properties, or function in response to external stimuli. Research in this area combines advanced materials, simulation, and AI to design transformable structures.
+
+| Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
+|------------------|---------|------------|---------|------|------|
+| [AI-Assisted Material Design for 4D Printing](https://www.sciencedirect.com/science/article/pii/S2667369722000103) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/AI-assisted-material-design-for-4D-printing) | *N/A* | 4DP | `MaterialDesign` `AI` `ShapeMemory` | 2022 |
 
 ---
 
