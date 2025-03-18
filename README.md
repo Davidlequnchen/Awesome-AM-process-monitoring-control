@@ -17,7 +17,7 @@ Details of our comprehensive review paper published in 2024:
 - [Simulation for Process Optimization](#simulation-for-process-optimization-) 🖥️
 - [Physics-Informed Machine Learning for AM](#physics-informed-machine-learning-) 🧠
 - [AM Robotic Path Planning](#am-robotic-path-planning-) 🤖
-- [4D Printing & Advanced Materials](###4D-Printing-&-Advanced-Materials ) 🧪
+- [AI-assisted Design of Advanced Materials](###advanced-materials-) 🧪
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -135,7 +135,7 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 
 
 
-## 4D Printing & Advanced Materials 🧪
+## Advanced Materials 🧪
 
 4D printing adds the dimension of time to 3D printing, enabling printed parts to change shape, properties, or function in response to external stimuli. Research in this area combines advanced materials, simulation, and AI to design transformable structures.
 
