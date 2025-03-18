@@ -103,8 +103,8 @@ Physics-based simulations (thermal, mechanical, microstructural) help predict ou
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [JAX-AM: Differentiable Simulation Toolkit for Additive Manufacturing](https://github.com/tianjuxue/jax-am) <br> *T. Xue et al.* (Open-Source Project) | [GitHub](https://github.com/tianjuxue/jax-am) | *N/A* | *Multi (LPBF/DED)* | `Differentiable` `GPU-Accelerated` `JAX` | 2023 |
-| [Efficient GPU-accelerated Thermomechanical Solver for Residual Stress Prediction in AM](https://link.springer.com/article/10.1007/s00466-023-02273-3) <br> *S. Liao et al.* (Computational Mechanics) | [GitHub](https://github.com/ShuhengLiao/AM_Thermomechanical_Solver) | *N/A* | Various | `GPU-Accelerated` `FEM` `ResidualStress` `CuPy` | 2023 |
-| [Graph-Based Modeling for Additive Manufacturing](https://github.com/AMPL-NU/Graph_AM_Modeling) <br> *AMPL Research Group* | [GitHub](https://github.com/AMPL-NU/Graph_AM_Modeling) | *N/A* | Various | `GraphModels` `GNN` `ProcessModeling` | 2023 |
+| [Efficient GPU-accelerated Thermomechanical Solver for Residual Stress Prediction in AM](https://link.springer.com/article/10.1007/s00466-023-02273-3) <br> *S. Liao et al.* (Computational Mechanics) | [GitHub](https://github.com/ShuhengLiao/AM_Thermomechanical_Solver) | *N/A* | LDED/LPBF | `GPU-Accelerated` `FEM` `ResidualStress` `CuPy` | 2023 |
+| [Graph-Based Modeling for Additive Manufacturing](https://github.com/AMPL-NU/Graph_AM_Modeling) <br> *AMPL Research Group* | [GitHub](https://github.com/AMPL-NU/Graph_AM_Modeling) | *N/A* | LPBF, LDED | `GraphModels` `GNN` `ProcessModeling` | 2023 |
 | [An iterative machine learning framework for predicting temperature profiles](https://arxiv.org/abs/1907.12953) <br> *Arindam Paul et al.* | [GitHub](https://github.com/NU-CUCIS/ml-iter-additive) | *N/A* | LPBF | `IterativePrediction` `BuildQuality` `XCT` | 2022 |
 | [Mechanistic Data-Driven Prediction of As-Built Mechanical Properties in Metal Additive Manufacturing](https://www.nature.com/articles/s41524-021-00555-z) <br> *X. Xie et al.* (npj Computational Materials) | [GitHub](https://github.com/xiaoyuxie-vico/DL-AM) | [GitHub](https://github.com/xiaoyuxie-vico/DL_AM_Data) | DED | `ThermalHistory` `CNN` `MechanicalProperties` | 2021 |
 
@@ -120,7 +120,7 @@ Physics-informed ML integrates fundamental physics (conservation laws, constitut
 |------------------|---------|------------|---------|------|------|
 | [A Physics-Informed CNN with Custom Loss Functions for Porosity Prediction in LMD](https://doi.org/10.3390/s22020494) <br> *Erin McGowan. et al* (Sensors) | *N/A* | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) | LMD | `CustomLoss` `CNN` `Porosity` | 2022 |
 | [Differentiable Physics Simulation of Dynamics-aware Metal Powder-bed Fusion Additive Manufacturing Components](https://github.com/mojtabamozaffar/differentiable-simulation-am) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/differentiable-simulation-am) | *N/A* | LPBF | `DifferentiableSimulation` `AutoDiff` `Optimization` | 2022 |
-| [Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to AM](https://link.springer.com/article/10.1007/s00466-022-02257-9) <br> *S. Liao et al.* (Computational Mechanics) | [GitHub](https://github.com/ShuhengLiao/Physics_informed_AM) | [Drive](https://drive.google.com/file/d/1P6RqrbRW3mptzKd4LDoUrHFopBp7AfzV/view) | Various | `PINN` `ThermalMechanical` `DataAssimilation` | 2022 |
+| [Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to AM](https://link.springer.com/article/10.1007/s00466-022-02257-9) <br> *S. Liao et al.* (Computational Mechanics) | [GitHub](https://github.com/ShuhengLiao/Physics_informed_AM) | [Drive](https://drive.google.com/file/d/1P6RqrbRW3mptzKd4LDoUrHFopBp7AfzV/view) | LDED/LPBF | `PINN` `ThermalMechanical` `DataAssimilation` | 2022 |
 
 ## AM Robotic Path Planning 🤖
 
@@ -129,8 +129,8 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [RobPath: Off‑Line Path Planning Tool for LMD Automation](https://github.com/openlmd/robpath) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/robpath) | *N/A* | LMD | `ToolpathGeneration` `Robotics` `CAD-Based` | 2020 |
-| [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *L. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | Various | `KUKA` `ROS` `MotionPlanning` | 2022 |
-| [Toolpath Design for AM Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2214860422000252) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/toolpath-design-rl) | *N/A* | FDM/Various | `ReinforcementLearning` `ToolpathOptimization` | 2022 |
+| [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *L. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | LDED | `KUKA` `ROS` `MotionPlanning` | 2022 |
+| [Toolpath Design for AM Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2214860422000252) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/toolpath-design-rl) | *N/A* | FDM | `ReinforcementLearning` `ToolpathOptimization` | 2022 |
 
 
 
