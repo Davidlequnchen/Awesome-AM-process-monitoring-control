@@ -72,7 +72,7 @@ Structured-light scanning, fringe projection, and 3D reconstruction techniques m
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *D. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | *N/A* | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 |
+| [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *L. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | *N/A* | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 |
 | [Etna: On-line 3D Monitoring for Robotized LMD](https://github.com/openlmd/etna) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/etna) | *N/A* | LDED | `3DScan` `RealTime` `Robotized` | 2017 |
 
 ### Multisensor & Data Fusion 🧩
@@ -129,7 +129,7 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [RobPath: Off‑Line Path Planning Tool for LMD Automation](https://github.com/openlmd/robpath) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/robpath) | *N/A* | LMD | `ToolpathGeneration` `Robotics` `CAD-Based` | 2020 |
-| [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *D. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | Various | `KUKA` `ROS` `MotionPlanning` | 2022 |
+| [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *L. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | Various | `KUKA` `ROS` `MotionPlanning` | 2022 |
 | [Toolpath Design for AM Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2214860422000252) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/toolpath-design-rl) | *N/A* | FDM/Various | `ReinforcementLearning` `ToolpathOptimization` | 2022 |
 
 
