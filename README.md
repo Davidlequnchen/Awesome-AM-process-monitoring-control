@@ -182,13 +182,7 @@ We welcome contributions from the community! Please feel free to **suggest a pap
 - **Table Format**: Use the same table structure: Title (with link to paper), Code (link if available), Dataset (link if available), Process type, Tags, and Year. Indicate *N/A* if code or data are not available. 
 - **Tags**: Use descriptive tags in backticks like `` `ExplainableML` ``. Aim for 2-4 tags that capture the work's key aspects, focusing on methods, algorithms, or specific techniques rather than general categories already covered by the section.
 - **Style**: Keep descriptions concise. You can add a short note below a table if needed to explain context or significance (as done above). Use present tense and clear language.
-- **Attribution**: Include the first author's last name or an obvious short reference in the Title field for clarity. If the paper is open access, you can note that in tags or the title (e.g., via journal or a 🔓 emoji).
 
-By contributing, you agree to abide by the repo's [Code of Conduct](CODE_OF_CONDUCT.md) and ensure information is accurate. Let's build a comprehensive knowledge base for the AM community! 🤖🔥
-
-## 📜 License
-
-All content in this repository is released under the [MIT License](LICENSE), and the respective papers are copyright their publishers/authors. This list is for educational and research purposes, inspired by open-source community efforts.
 
 <hr>
 
