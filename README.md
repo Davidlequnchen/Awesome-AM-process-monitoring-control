@@ -5,19 +5,20 @@ Welcome to this curated repository of **research papers with open-source codes/d
 Details of our comprehensive review paper published in 2024:
 [In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review (2024)](https://ar5iv.org/pdf/2404.13673#:~:text=This%20paper%20provides%20a%20comprehensive,remediation%20strategies%20that%20advance%20LAM)
 
+
 ## Table of Contents
 
-- [In-Situ Process Monitoring](#in-situ-process-monitoring-) 🔎
-  - [Acoustic Signal-Based Monitoring](#acoustic-signal-based-monitoring-) 📢
-  - [Vision-Based Monitoring](#vision-based-monitoring-) 📷
-  - [Thermal/Infrared Monitoring](#thermalinfrared-monitoring-) 🌡️
-  - [Surface Topography / Point Cloud Monitoring](#surface-topography--point-cloud-monitoring-) 🛰️
-  - [Multisensor & Data Fusion](#multisensor--data-fusion-) 🧩
-- [Adaptive Process Control](#adaptive-process-control-) 🕹️
-- [Simulation for Process Optimization](#simulation-for-process-optimization-) 🖥️
-- [Physics-Informed Machine Learning for AM](#physics-informed-machine-learning-) 🧠
-- [AM Robotic Path Planning](#am-robotic-path-planning-) 🤖
-- [AI-assisted Design of Advanced Materials](###advanced-materials-) 🧪
+- [In-Situ Process Monitoring](#in-situ-process-monitoring-) 
+  - [Acoustic Signal-Based Monitoring](#acoustic-signal-based-monitoring-) 
+  - [Vision-Based Monitoring](#vision-based-monitoring-) 
+  - [Thermal/Infrared Monitoring](#thermalinfrared-monitoring-) 
+  - [Surface Topography / Point Cloud Monitoring](#surface-topography--point-cloud-monitoring-) 
+  - [Multisensor & Data Fusion](#multisensor--data-fusion-) 
+- [Adaptive Process Control](#adaptive-process-control-) 
+- [Simulation for Process Optimization](#simulation-for-process-optimization-) 
+- [Physics-Informed Machine Learning](#physics-informed-machine-learning-) 
+- [AM Robotic Path Planning](#am-robotic-path-planning-) 
+- [AI-assisted Design of Advanced Materials](###advanced-materials-)
 - [Contributing](#-contributing)
 - [License](#-license)
 
