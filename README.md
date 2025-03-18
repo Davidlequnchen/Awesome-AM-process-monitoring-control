@@ -19,6 +19,8 @@ Details of our comprehensive review paper published in 2024:
 - [Physics-Informed Machine Learning](#physics-informed-machine-learning-) 
 - [AM Robotic Path Planning](#am-robotic-path-planning-) 
 - [AI-assisted Design of Advanced Materials](###advanced-materials-)
+- [Design and Optimization Tools](###design-and-optimization-tools-)
+- [Process-Structure-Property Datasets](###process-structure-property-datasets-) 
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -129,7 +131,7 @@ Physics-informed ML integrates fundamental physics (conservation laws, constitut
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [A Physics-Informed CNN with Custom Loss Functions for Porosity Prediction in LMD](https://doi.org/10.3390/s22020494) <br> *Erin McGowan. et al* (Sensors) | *N/A* | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) | LMD | `CustomLoss` `CNN` `Porosity` | 2022 |
-| [Differentiable Physics Simulation of Dynamics-aware Metal Powder-bed Fusion Additive Manufacturing Components](https://github.com/mojtabamozaffar/differentiable-simulation-am) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/differentiable-simulation-am) | *N/A* | LPBF | `DifferentiableSimulation` `AutoDiff` `Optimization` | 2022 |
+| [Differentiable Physics Simulation of Dynamics-aware Metal Powder-bed Fusion Additive Manufacturing Components](https://www.sciencedirect.com/science/article/abs/pii/S2214860422007266) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/differentiable-simulation-am) | *N/A* | LPBF | `DifferentiableSimulation` `AutoDiff` `Optimization` | 2022 |
 | [Physics-Informed Neural Networks for Multiphysics Data Assimilation with Application to AM](https://link.springer.com/article/10.1007/s00466-022-02257-9) <br> *S. Liao et al.* (Computational Mechanics) | [GitHub](https://github.com/ShuhengLiao/Physics_informed_AM) | [Drive](https://drive.google.com/file/d/1P6RqrbRW3mptzKd4LDoUrHFopBp7AfzV/view) | LDED/LPBF | `PINN` `ThermalMechanical` `DataAssimilation` | 2022 |
 
 ## AM Robotic Path Planning 🤖
@@ -153,7 +155,24 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 |------------------|---------|------------|---------|------|------|
 | [AI-Assisted Material Design for 4D Printing](https://www.sciencedirect.com/science/article/pii/S2667369722000103) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/AI-assisted-material-design-for-4D-printing) | *N/A* | 4DP | `MaterialDesign` `AI` `ShapeMemory` | 2022 |
 
+
+## Design and Optimization Tools 🛠️
+
+| Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
+|------------------|---------|------------|---------|------|------|
+| [A Flexible and Easy-to-Use Open-Source Tool for Designing Functionally Graded 3D Porous Structures](https://www.tandfonline.com/doi/full/10.1080/17452759.2022.2048956) <br> *N. Korshunova et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/tpms-lattice/ASLI) | *N/A* | Various | `TPMS` `LatticeStructures` `FunctionallyGraded` | 2022 |
+
+## Process-Structure-Property Datasets 📊
+
+| Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
+|------------------|---------|------------|---------|------|------|
+| [Machine Learning for Knowledge Transfer Across Multiple Metals Additive Manufacturing Printers](https://www.sciencedirect.com/science/article/abs/pii/S2214860421000427) <br> *J. Gaikwad et al.* (Additive Manufacturing) | *N/A* | [Citrination](https://citrination.com/datasets/181122/show_files/) | LPBF | `KnowledgeTransfer` `PSPRelationship` `MultiPrinter` | 2021 |
+| [New Insight into the Multivariate Relationships Among Process, Structure, and Properties in Laser Powder Bed Fusion AlSi10Mg](https://doi.org/10.1016/j.addma.2023.103804) <br> *Q. Luo et al.* (Additive Manufacturing) | *N/A* | *Available in Paper* | LPBF | `PSPRelationship` `AlSi10Mg` `MultivariateAnalysis` | 2023 |
+| [Effect of Processing Parameters on Pore Structures, Grain Features, and Mechanical Properties in Ti-6Al-4V by LPBF](https://doi.org/10.1016/j.addma.2022.102915) <br> *Q. Luo et al.* (Additive Manufacturing) | *N/A* | [Zenodo](https://zenodo.org/records/6587905) | LPBF | `Ti6Al4V` `ProcessParameters` `MechanicalProperties` | 2022 |
+| [Dataset of Process-Structure-Property Feature Relationship for LPBF Ti-6Al-4V Material](https://doi.org/10.1016/j.dib.2023.108911) <br> *Q. Luo et al.* (Data in Brief) | *N/A* | [Zenodo](https://zenodo.org/records/6587905) | LPBF | `Ti6Al4V` `PSPRelationship` `FeatureData` | 2023 |
+
 ---
+
 
 ## 🤝 Contributing
 
