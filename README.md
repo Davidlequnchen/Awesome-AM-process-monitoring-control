@@ -11,8 +11,8 @@ Details of our comprehensive review paper published in 2024:
 - [In-Situ Process Monitoring](#in-situ-process-monitoring-) 
   - [Acoustic Signal-Based Monitoring](#acoustic-signal-based-monitoring-) 
   - [Vision-Based Monitoring](#vision-based-monitoring-) 
-  - [Thermal/Infrared Monitoring](#thermalinfrared-monitoring-) 
-  - [Surface Topography / Point Cloud Monitoring](#surface-topography--point-cloud-monitoring-) 
+  - [Thermal Infrared Monitoring](#thermal-infrared-monitoring-) 
+  - [Surface Monitoring and Point Cloud Processing](#surface-monitoring-and-point-cloud-processing-) 
   - [Multisensor & Data Fusion](#multisensor--data-fusion-) 
 - [Adaptive Process Control](#adaptive-process-control-) 
 - [Simulation for Process Optimization](#simulation-for-process-optimization-) 
@@ -67,7 +67,7 @@ Optical monitoring uses cameras (visible or infrared) to observe the melt pool, 
 
 
 
-### Thermal/Infrared Monitoring 🌡️
+### Thermal Infrared Monitoring 🌡️
 
 Infrared cameras and pyrometers capture thermal signatures (melt pool temperature, cooling rates, etc.) for defect detection. Thermal monitoring can reveal anomalies like overheating, lack of fusion, or excessive cooling that correlate with defects.
 
@@ -77,7 +77,7 @@ Infrared cameras and pyrometers capture thermal signatures (melt pool temperatur
 | [Real-Time Dripping Detection in Laser Aided AM Using YOLOv8 on Thermal Images](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) <br> *Chen et al.* | [GitHub](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) / [Related Work](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) | LDED | `ThermalImaging` `YOLOv8` `DrippingDetection` `RealTime` | 2023 |
 
 
-### Surface Topography / Point Cloud Monitoring 🛰️
+### Surface Monitioring and Point Cloud Processing 🛰️
 
 Structured-light scanning, fringe projection, and 3D reconstruction techniques monitor the geometry of each layer. These produce **point clouds** or height maps to detect warping, recoater interference, or surface roughness issues.
 
