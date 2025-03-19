@@ -77,7 +77,7 @@ Infrared cameras and pyrometers capture thermal signatures (melt pool temperatur
 | [Real-Time Dripping Detection in Laser Aided AM Using YOLOv8 on Thermal Images](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) <br> *Chen et al.* | [GitHub](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) / [Related Work](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) | LDED | `ThermalImaging` `YOLOv8` `DrippingDetection` `RealTime` | 2023 |
 
 
-### Surface Monitioring and Point Cloud Processing 🛰️
+### Surface Monitoring and Point Cloud Processing 🛰️
 
 Structured-light scanning, fringe projection, and 3D reconstruction techniques monitor the geometry of each layer. These produce **point clouds** or height maps to detect warping, recoater interference, or surface roughness issues.
 
