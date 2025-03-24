@@ -83,7 +83,7 @@ Structured-light scanning, fringe projection, and 3D reconstruction techniques m
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *L. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | *N/A* | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 |
+| [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *L. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | [Dataset](https://zenodo.org/records/15049618) | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 |
 | [Etna: On-line 3D Monitoring for Robotized LMD](https://github.com/openlmd/etna) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/etna) | *N/A* | LDED | `3DScan` `RealTime` `Robotized` | 2017 |
 
 ### Multisensor & Data Fusion 🧩
@@ -92,7 +92,7 @@ Combining multiple sensors (e.g., optical, acoustic, thermal) can provide a rich
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [Audio-Visual Cross-Modality Knowledge Transfer for ML-Based In-Situ Monitoring in Laser AM](https://www.sciencedirect.com/science/article/abs/pii/S2214860425000569) <br> *V. Pandiyan et al.* (Additive Manufacturing) | *N/A* | [Zenodo](https://zenodo.org/records/12604782) | LDED | `CrossModality` `AudioVisual` `KnowledgeTransfer` | 2025 |
+| [Audio-Visual Cross-Modality Knowledge Transfer for ML-Based In-Situ Monitoring in Laser AM](https://www.sciencedirect.com/science/article/abs/pii/S2214860425000569) <br> *Xie et al.* (Additive Manufacturing) | *N/A* | [Zenodo](https://zenodo.org/records/12604782) | LDED | `CrossModality` `AudioVisual` `KnowledgeTransfer` | 2025 |
 | [MultiSensor Fusion for ROS-Based AM Monitoring](https://www.sciencedirect.com/science/article/abs/pii/S0736584523000571) <br> *L. Chen et al.* (Robotics and CIM) | [GitHub](https://github.com/Davidlequnchen/MultiSensorFusion-ROS-AM-Monitoring) | *N/A* | LDED | `ROS` `Robotics` `SensorFusion` | 2023 |
 | [MultiSensor Monitoring for Laser Wire DED](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://zenodo.org/records/15043818) | LW-DED | `MultiSensor` `WireFeed` `ProcessMonitoring` | 2023 |
 | [Deep Learning Monitoring of LPBF with Heterogeneous Sensing and X-Ray Guidance](https://www.sciencedirect.com/science/article/pii/S2214860422004006) <br> *V. Pandiyan et al.* (Addit. Manuf.) | [GitHub](https://github.com/vigneashpandiyan/Additive-Manufacturing-Variable-Time-Scales) | N.A. | LPBF | `Multisensor` `XRay` `VariableTimeScales` | 2022 |
