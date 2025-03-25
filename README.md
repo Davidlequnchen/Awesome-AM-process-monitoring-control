@@ -14,7 +14,7 @@ Details of our comprehensive review paper published in 2024:
   - [Thermal Infrared Monitoring](#thermal-infrared-monitoring-%EF%B8%8F) 
   - [Surface Monitoring and Point Cloud Processing](#surface-monitoring-and-point-cloud-processing-%EF%B8%8F)  
   - [Multisensor & Data Fusion](#multisensor--data-fusion-) 
-- [Adaptive Process Control](#adaptive-process-control-) 
+- [Adaptive Process Control](#adaptive-process-control-%EF%B8%8F) 
 - [Simulation for Process Optimization](#simulation-for-process-optimization-) 
 - [Physics-Informed Machine Learning](#physics-informed-machine-learning-) 
 - [AM Robotic Path Planning](#am-robotic-path-planning-) 
@@ -109,7 +109,7 @@ Adaptive control closes the loop by adjusting process parameters in real-time ba
 | [CladPlus: Closed-Loop Control for Laser Cladding](https://openlmd.github.io/cladplus.html) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project), [OpenLMD, an open source middleware and toolkit](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770) (García-Díaz et al. RCIM) | [GitHub](https://github.com/openlmd/cladplus)  | *N/A* | LDED | `ClosedLoop` `LaserCladding` `InfraredControl` | 2017 |
 
 
-## Simulation for Design and Process Optimization 🖥️
+## Physics-based Simulations 🖥️
 
 Physics-based simulations (thermal, mechanical, microstructural) help predict outcomes of process parameters and optimize them without costly trial-and-error. Open-source tools and multi-physics models are enabling **"digital twins"** of AM processes.
 
