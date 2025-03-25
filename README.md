@@ -15,7 +15,7 @@ Details of our comprehensive review paper published in 2024:
   - [Surface Monitoring and Point Cloud Processing](#surface-monitoring-and-point-cloud-processing-%EF%B8%8F)  
   - [Multisensor & Data Fusion](#multisensor--data-fusion-) 
 - [Adaptive Process Control](#adaptive-process-control-%EF%B8%8F) 
-- [Simulation for Process Optimization](#simulation-for-process-optimization-) 
+- [Simulation for Process Optimization](#physics-based-simulations-%EF%B8%8F) 
 - [Physics-Informed Machine Learning](#physics-informed-machine-learning-) 
 - [AM Robotic Path Planning](#am-robotic-path-planning-) 
 - [AI-assisted Design of Advanced Materials](###advanced-materials-)
