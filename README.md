@@ -111,8 +111,8 @@ Adaptive control closes the loop by adjusting process parameters in real-time ba
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [Data-Driven Adaptive Control for Laser-Based AM with Automatic Controller Tuning](https://www.mdpi.com/2076-3417/10/22/7967) <br> *L. Chen et al.* (Applied Sciences) | [GitHub](https://github.com/Davidlequnchen/laam_control_ws) | *N/A* | LDED | `AdaptiveControl` `AutoTuning` `ClosedLoop` `RealTime` | 2020 |
 | [CladPlus: Closed-Loop Control for Laser Cladding](https://openlmd.github.io/cladplus.html) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project), [OpenLMD, an open source middleware and toolkit](https://www.sciencedirect.com/science/article/abs/pii/S0736584517303770) (García-Díaz et al. RCIM) | [GitHub](https://github.com/openlmd/cladplus)  | *N/A* | LDED | `ClosedLoop` `LaserCladding` `InfraredControl` | 2017 |
+<!-- | [Data-Driven Adaptive Control for Laser-Based AM with Automatic Controller Tuning](https://www.mdpi.com/2076-3417/10/22/7967) <br> *L. Chen et al.* (Applied Sciences) | [GitHub](https://github.com/Davidlequnchen/laam_control_ws) | *N/A* | LDED | `AdaptiveControl` `AutoTuning` `ClosedLoop` `RealTime` | 2020 | -->
 
 
 ## Physics-based Simulations 🖥️
