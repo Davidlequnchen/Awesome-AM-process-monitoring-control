@@ -74,7 +74,7 @@ Infrared cameras and pyrometers capture thermal signatures (melt pool temperatur
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [In‑Situ Infrared Camera Monitoring for Defect & Anomaly Detection](http://arxiv.org/pdf/2407.12682) <br> *S. Hinnebusch et al.* (arXiv preprint) | *Python snippets* | *N/A* | LPBF | `FeatureExtraction` `AnomalyDetection` `ThermalSignatures` | 2024 |
-| [Real-Time Dripping Detection in Laser Aided AM Using YOLOv8 on Thermal Images](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) <br> *Chen et al.* | [GitHub](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) / [Related Work](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) | LDED | `ThermalImaging` `YOLOv8` `DrippingDetection` `RealTime` | 2023 |
+<!-- | [Real-Time Dripping Detection in Laser Aided AM Using YOLOv8 on Thermal Images](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) <br> *Chen et al.* | [GitHub](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) / [Related Work](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://github.com/Adv-Reman-Div-Dev/YOLOv8_Dripping_Detection) | LDED | `ThermalImaging` `YOLOv8` `DrippingDetection` `RealTime` | 2023 | -->
 
 
 ### Surface Monitoring and Point Cloud Processing 🛰️
