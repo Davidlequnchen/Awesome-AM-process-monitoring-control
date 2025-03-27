@@ -83,8 +83,8 @@ Structured-light scanning, fringe projection, and 3D reconstruction techniques m
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *L. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | [Dataset](https://zenodo.org/records/15049618) | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 |
 | [Etna: On-line 3D Monitoring for Robotized LMD](https://github.com/openlmd/etna) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/etna) | *N/A* | LDED | `3DScan` `RealTime` `Robotized` | 2017 |
+<!-- | [Surface Defect Detection in AM Using Deep Learning](https://www.tandfonline.com/doi/full/10.1080/17452759.2020.1832695) <br> *L. Chen et al.* (Virtual and Physical Prototyping) | [GitHub](https://github.com/Davidlequnchen/AM_Surface_Defect) | [Dataset](https://zenodo.org/records/15049618) | LDED | `SurfaceDefect` `ComputerVision` `DeepLearning` | 2020 | -->
 
 ### Multisensor & Data Fusion 🧩
 
