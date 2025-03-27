@@ -93,15 +93,14 @@ Combining multiple sensors (e.g., optical, acoustic, thermal) can provide a rich
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [Audio-Visual Cross-Modality Knowledge Transfer for ML-Based In-Situ Monitoring in Laser AM](https://www.sciencedirect.com/science/article/abs/pii/S2214860425000569) <br> *Xie et al.* (Additive Manufacturing) | *N/A* | [Zenodo](https://zenodo.org/records/12604782) | LDED | `CrossModality` `AudioVisual` `KnowledgeTransfer` | 2025 |
-| [In-situ Defect Detection in LDED with Machine Learning and Multi-Sensor Fusion](https://link.springer.com/article/10.1007/s12206-024-2401-1) <br> *L. Chen et al.* (J. Mech. Sci. Tech.) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `DefectDetection` `MultiSensor` `MachineLearning` `RealTime` | 2024 |
+| [Deep Learning Monitoring of LPBF with Heterogeneous Sensing and X-Ray Guidance](https://www.sciencedirect.com/science/article/pii/S2214860422004006) <br> *V. Pandiyan et al.* (Addit. Manuf.) | [GitHub](https://github.com/vigneashpandiyan/Additive-Manufacturing-Variable-Time-Scales) | N.A. | LPBF | `Multisensor` `XRay` `VariableTimeScales` | 2022 |
+| [Multi-Material Composition Monitoring Using Sensor Fusion in LPBF](https://www.tandfonline.com/doi/full/10.1080/17452759.2024.2356080) <br> *V. Pandiyan et al.* | [GitHub](https://github.com/vigneashpandiyan/Additive-Manufacturing-Multi-Material-Composition-Monitoring-Using-Sensor-Fusion) | *N/A* | LPBF | `SensorFusion` `MultiMaterial` `CompositionMonitoring` | 2021 |
+<!-- | [In-situ Defect Detection in LDED with Machine Learning and Multi-Sensor Fusion](https://link.springer.com/article/10.1007/s12206-024-2401-1) <br> *L. Chen et al.* (J. Mech. Sci. Tech.) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `DefectDetection` `MultiSensor` `MachineLearning` `RealTime` | 2024 |
 | [Inference of Melt Pool Visual Characteristics Using Acoustic Signal Features and Robotic Motion Data](https://ieeexplore.ieee.org/abstract/document/10569391) <br> *L. Chen et al.* (ICCAR) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `MeltPool` `AcousticInference` `RoboticMotion` `CrossModality` | 2024 |
 | [Multisensor Fusion-Based Digital Twin for Localized Quality Prediction in Robotic LDED](https://www.sciencedirect.com/science/article/abs/pii/S0736584523000571) <br> *L. Chen et al.* (Robotics and CIM) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `DigitalTwin` `QualityPrediction` `Robotics` `MultiSensor` | 2023 |
 | [ROS-Based Multi-Sensor Monitoring Software Platform for Laser AM](https://www.sciencedirect.com/science/article/abs/pii/S0736584523000571) <br> *L. Chen et al.* (Robotics and CIM) | [GitHub](https://github.com/Davidlequnchen/MultiSensorFusion-ROS-AM-Monitoring) | *N/A* | LDED | `ROS` `Robotics` `SensorFusion` | 2023 |
-| [Multimodal Sensor Fusion for Real-Time Location-Dependent Defect Detection in LDED](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2023/87295/1170490) <br> *L. Chen et al.* (ASME IDETC-CIE) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `MultimodalFusion` `LocationDependent` `RealTime` `ASME` | 2023 |
-| [Deep Learning Monitoring of LPBF with Heterogeneous Sensing and X-Ray Guidance](https://www.sciencedirect.com/science/article/pii/S2214860422004006) <br> *V. Pandiyan et al.* (Addit. Manuf.) | [GitHub](https://github.com/vigneashpandiyan/Additive-Manufacturing-Variable-Time-Scales) | N.A. | LPBF | `Multisensor` `XRay` `VariableTimeScales` | 2022 |
-| [Multi-Material Composition Monitoring Using Sensor Fusion in LPBF](https://www.tandfonline.com/doi/full/10.1080/17452759.2024.2356080) <br> *V. Pandiyan et al.* | [GitHub](https://github.com/vigneashpandiyan/Additive-Manufacturing-Multi-Material-Composition-Monitoring-Using-Sensor-Fusion) | *N/A* | LPBF | `SensorFusion` `MultiMaterial` `CompositionMonitoring` | 2021 |
+| [Multimodal Sensor Fusion for Real-Time Location-Dependent Defect Detection in LDED](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2023/87295/1170490) <br> *L. Chen et al.* (ASME IDETC-CIE) | [GitHub](https://github.com/Davidlequnchen/LDED-FusionNet) | [Dataset](https://zenodo.org/records/15050300) | LDED | `MultimodalFusion` `LocationDependent` `RealTime` `ASME` | 2023 | -->
 <!-- | [MultiSensor Monitoring for Laser Wire DED](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/MultiSensor-Monitoring-LW-DED) | [Dataset](https://zenodo.org/records/15043818) | LW-DED | `MultiSensor` `WireFeed` `ProcessMonitoring` | 2023 | -->
-
 
 
 
@@ -134,7 +133,6 @@ Physics-based simulations (thermal, mechanical, microstructural) help predict ou
 Physics-informed ML integrates fundamental physics (conservation laws, constitutive models, etc.) into data-driven models. In AM, this can mean using simulation data to train ML models, constraining neural nets with physical laws, or creating surrogate models that are faster than physics simulators but more accurate than black-box ML alone.
 
 
-
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [A Physics-Informed CNN with Custom Loss Functions for Porosity Prediction in LMD](https://doi.org/10.3390/s22020494) <br> *Erin McGowan. et al* (Sensors) | *N/A* | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AHYXL9) | LMD | `CustomLoss` `CNN` `Porosity` | 2022 |
@@ -148,19 +146,19 @@ Path planning is crucial for directed-energy AM processes (LDED, WAAM, etc.), es
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
 | [RobPath: Off‑Line Path Planning Tool for LMD Automation](https://github.com/openlmd/robpath) <br> *AIMEN OpenLMD Toolkit* (Open-Source Project) | [GitHub](https://github.com/openlmd/robpath) | *N/A* | LMD | `ToolpathGeneration` `Robotics` `CAD-Based` | 2020 |
-| [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *L. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | LDED | `KUKA` `ROS` `MotionPlanning` | 2022 |
 | [Toolpath Design for AM Using Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S2214860422000252) <br> *M. Mozaffar et al.* | [GitHub](https://github.com/mojtabamozaffar/toolpath-design-rl) | *N/A* | FDM | `ReinforcementLearning` `ToolpathOptimization` | 2022 |
+<!-- | [KUKA-ROS Based Advanced Motion Planning for Additive Manufacturing](https://www.sciencedirect.com/science/article/abs/pii/S0924013622000565) <br> *L. Chen et al.* (J. Mat. Proc. Tech.) | [GitHub](https://github.com/Davidlequnchen/KUKA-ROS-AM-Advanced-Motion-Planning) | *N/A* | LDED | `KUKA` `ROS` `MotionPlanning` | 2022 | -->
 
 
 
 
-## Advanced Materials 🧪
+<!-- ## Advanced Materials 🧪
 
 4D printing adds the dimension of time to 3D printing, enabling printed parts to change shape, properties, or function in response to external stimuli. Research in this area combines advanced materials, simulation, and AI to design transformable structures.
 
 | Title (and Link) | Code 💻 | Dataset 📂 | Process | Tags | Year |
 |------------------|---------|------------|---------|------|------|
-| [AI-Assisted Material Design for 4D Printing](https://www.sciencedirect.com/science/article/pii/S2667369722000103) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/AI-assisted-material-design-for-4D-printing) | *N/A* | 4DP | `MaterialDesign` `AI` `ShapeMemory` | 2022 |
+| [AI-Assisted Material Design for 4D Printing](https://www.sciencedirect.com/science/article/pii/S2667369722000103) <br> *L. Chen et al.* | [GitHub](https://github.com/Davidlequnchen/AI-assisted-material-design-for-4D-printing) | *N/A* | 4DP | `MaterialDesign` `AI` `ShapeMemory` | 2022 | -->
 
 
 ## Design and Optimization Tools 🛠️
